@@ -20,12 +20,21 @@ CREATE TABLE Dishes (
 	IsAvailable BOOLEAN NOT NULL DEFAULT TRUE
 )
 
+ALTER TABLE Dishes DROP CONSTRAINT dishes_category_check
+
+ALTER TABLE Dishes
+	ADD CONSTRAINT dishes_category_check
+	CHECK (Category IN ('Appetizers', 'Main Dish', 'Desserts'))
+
 CREATE TABLE MenusDishes (
 	MenuDishes SERIAL PRIMARY KEY,
 	MenuID INT REFERENCES Menus(MenuID),
 	DishID INT REFERENCES Dishes(DishID),
 	UNIQUE (MenuID, DishID)
 )
+
+ALTER TABLE MenusDishes
+	RENAME COLUMN MenuDishes TO MenuDishesID;
 
 CREATE TABLE Guests (
 	GuestID SERIAL PRIMARY KEY
@@ -45,7 +54,6 @@ CREATE TABLE Orders (
 	GuestNote TEXT,
 	RestaurantID INT REFERENCES Restaurants(RestaurantID),
 	GuestID INT REFERENCES Guests(GuestID)
-	
 )
 
 CREATE TABLE OrdersDishes (
@@ -72,6 +80,5 @@ CREATE TABLE Reviews (
 	DishID INT REFERENCES Dishes(DishID),
 	OrderID INT REFERENCES Orders(OrderID)
 )
-
 
 

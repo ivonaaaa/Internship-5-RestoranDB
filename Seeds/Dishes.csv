@@ -1,0 +1,501 @@
+DishID,Name,Category,Price,Calories,IsAvailable
+1,Ecolab - Mikroklene 4/4 L,Appetizers,40.7,860,true
+2,Ecolab Silver Fusion,Appetizers,9.03,268,false
+3,Flower - Commercial Bronze,Appetizers,36.97,1195,true
+4,Syrup - Kahlua Chocolate,Desserts,37.13,156,false
+5,Wine - George Duboeuf Rose,Main Dish,37.87,1038,false
+6,Sprouts - Peppercress,Main Dish,5.84,712,false
+7,Coffee Cup 12oz 5342cd,Appetizers,38.89,166,true
+8,Wine - Balbach Riverside,Main Dish,21.89,435,true
+9,"Nut - Hazelnut, Whole",Main Dish,45.26,1582,true
+10,Muffin Batt - Blueberry Passion,Appetizers,6.85,1138,false
+11,Mousse - Passion Fruit,Appetizers,18.97,343,true
+12,Beef - Striploin Aa,Desserts,39.36,910,true
+13,"Basil - Primerba, Paste",Appetizers,31.07,669,true
+14,Water Chestnut - Canned,Desserts,37.97,1653,true
+15,Ice Cream - Strawberry,Appetizers,9.03,1064,true
+16,Pie Shell - 9,Desserts,35.7,402,true
+17,Papayas,Desserts,29.86,329,false
+18,French Pastries,Appetizers,33.84,619,false
+19,"Orange - Canned, Mandarin",Desserts,29.61,1913,true
+20,Ecolab - Lime - A - Way 4/4 L,Appetizers,15.63,226,false
+21,Muffin - Bran Ind Wrpd,Main Dish,40.77,726,true
+22,Arctic Char - Fillets,Desserts,36.75,982,true
+23,Soup Knorr Chili With Beans,Desserts,21.49,1100,false
+24,Clam - Cherrystone,Main Dish,34.5,1425,true
+25,Cheese - Parmesan Cubes,Desserts,49.83,1102,true
+26,Buffalo - Tenderloin,Main Dish,28.82,1828,true
+27,Parasol Pick Stir Stick,Appetizers,42.03,560,true
+28,"Wine - Red, Antinori Santa",Main Dish,10.51,906,false
+29,"Veal - Tenderloin, Untrimmed",Desserts,32.79,845,true
+30,"Melon - Watermelon, Seedless",Desserts,26.44,1350,false
+31,"Cheese - Cheddar, Mild",Main Dish,41.48,1772,true
+32,Cheese - Brie,Main Dish,14.82,1812,true
+33,Appetizer - Lobster Phyllo Roll,Appetizers,36.31,295,true
+34,Garlic,Appetizers,12.41,477,true
+35,Apples - Sliced / Wedge,Appetizers,42.47,770,true
+36,The Pop Shoppe - Black Cherry,Desserts,31.97,1985,true
+37,Schnappes Peppermint - Walker,Desserts,18.43,1416,true
+38,Wine - Prem Select Charddonany,Main Dish,31.46,1398,true
+39,Gatorade - Lemon Lime,Main Dish,9.55,1096,true
+40,"Veal - Insides, Grains",Desserts,45.6,1823,true
+41,"Tart Shells - Sweet, 2",Appetizers,40.8,1957,false
+42,Scallop - St. Jaques,Main Dish,7.93,1108,false
+43,Lamb - Shanks,Appetizers,46.13,409,false
+44,Initation Crab Meat,Main Dish,37.72,1172,false
+45,Bread - Ciabatta Buns,Appetizers,28.56,945,true
+46,"Nut - Almond, Blanched, Whole",Main Dish,38.9,863,false
+47,Cheese - Comtomme,Main Dish,49.92,1173,true
+48,Chicken - White Meat With Tender,Appetizers,13.06,1165,false
+49,Flour Pastry Super Fine,Appetizers,5.51,200,true
+50,Beef - Kobe Striploin,Main Dish,10.12,1971,true
+51,Cheese - Cream Cheese,Appetizers,37.68,1282,true
+52,French Pastries,Appetizers,9.94,990,false
+53,Water - San Pellegrino,Desserts,13.84,710,true
+54,Bread - Hamburger Buns,Appetizers,39.57,1392,true
+55,Garlic,Main Dish,47.18,1348,false
+56,Pears - Bosc,Desserts,12.31,298,true
+57,"Bread - Pullman, Sliced",Desserts,23.2,1723,true
+58,Dish Towel,Appetizers,11.35,583,false
+59,Sesame Seed,Desserts,19.04,1877,false
+60,Corn - On The Cob,Appetizers,30.73,1587,true
+61,"Mustard - Dry, Powder",Appetizers,23.42,594,true
+62,Mace Ground,Desserts,45.41,442,true
+63,Coffee - Dark Roast,Desserts,35.54,218,true
+64,"Crab - Claws, Snow 16 - 24",Appetizers,24.7,733,false
+65,Cup Translucent 9 Oz,Desserts,41.4,345,true
+66,Energy Drink,Desserts,15.8,207,false
+67,Scallops - U - 10,Appetizers,45.78,1170,true
+68,Jam - Apricot,Main Dish,45.57,712,true
+69,"Mushroom - Oyster, Fresh",Main Dish,24.69,820,true
+70,Olives - Kalamata,Appetizers,25.41,992,true
+71,French Pastry - Mini Chocolate,Main Dish,40.95,646,true
+72,Bouillion - Fish,Main Dish,41.67,1161,false
+73,Grapes - Red,Appetizers,12.99,1828,false
+74,Mushroom - Chanterelle Frozen,Appetizers,14.28,566,false
+75,French Kiss Vanilla,Desserts,17.08,1875,false
+76,Truffle Paste,Main Dish,5.83,894,false
+77,Cookie Dough - Chunky,Main Dish,44.43,1473,false
+78,Bread Base - Italian,Main Dish,16.13,1760,true
+79,Soup - Campbells - Tomato,Appetizers,41.45,1852,false
+80,Water - Evian 355 Ml,Desserts,13.56,562,false
+81,Fib N9 - Prague Powder,Desserts,24.54,456,true
+82,"Turnip - White, Organic",Desserts,43.22,1170,false
+83,Longos - Lasagna Beef,Main Dish,38.58,1499,true
+84,Calvados - Boulard,Appetizers,9.2,1411,false
+85,Lettuce - Arugula,Appetizers,13.18,1787,false
+86,Olives - Nicoise,Main Dish,34.4,876,false
+87,Bread - Multigrain,Main Dish,22.48,1508,true
+88,"Bread - Roll, Italian",Main Dish,20.69,1938,true
+89,Wine - Chablis J Moreau Et Fils,Desserts,20.35,1755,false
+90,Vinegar - White,Main Dish,41.54,1207,false
+91,Beans - Butter Lrg Lima,Appetizers,39.9,1487,false
+92,Cheese - Mozzarella,Appetizers,26.85,1955,true
+93,Salad Dressing,Desserts,38.55,1674,true
+94,Pork Ham Prager,Appetizers,48.21,1657,true
+95,Lettuce - Lolla Rosa,Main Dish,30.43,1536,false
+96,Clam - Cherrystone,Appetizers,16.59,1363,false
+97,Mushrooms - Honey,Appetizers,48.17,1825,true
+98,Croissants Thaw And Serve,Main Dish,26.09,677,true
+99,Sugar - Brown,Appetizers,19.69,752,false
+100,"Veal - Inside, Choice",Appetizers,19.16,950,false
+101,Soup - Verve - Chipotle Chicken,Desserts,10.69,1789,false
+102,Bandage - Fexible 1x3,Appetizers,15.27,1599,true
+103,Clams - Canned,Appetizers,38.0,1116,true
+104,Beer - Rickards Red,Desserts,23.86,1036,false
+105,"Squash - Pattypan, Yellow",Main Dish,5.22,886,false
+106,True - Vue Containers,Appetizers,21.87,1063,false
+107,V8 - Berry Blend,Appetizers,39.47,1693,false
+108,Mortadella,Appetizers,45.4,765,false
+109,Steamers White,Desserts,42.37,895,false
+110,Mousse - Mango,Desserts,25.57,574,false
+111,Coffee - Ristretto Coffee Capsule,Main Dish,24.77,173,true
+112,Sword Pick Asst,Desserts,20.28,468,true
+113,Chocolate - Unsweetened,Main Dish,44.72,488,false
+114,Lamb - Loin Chops,Desserts,29.38,1442,true
+115,"Nut - Peanut, Roasted",Desserts,32.91,1329,false
+116,Breadfruit,Appetizers,39.86,1502,true
+117,Sugar - Palm,Main Dish,25.95,1615,false
+118,Tray - 16in Rnd Blk,Main Dish,7.77,1794,true
+119,Juice - Happy Planet,Main Dish,45.43,1839,true
+120,Port - 74 Brights,Appetizers,22.16,1661,true
+121,"Asparagus - White, Fresh",Appetizers,43.19,1056,true
+122,Crackers - Melba Toast,Desserts,36.58,920,false
+123,"Leeks - Baby, White",Main Dish,23.78,1663,false
+124,Cloves - Whole,Desserts,28.52,214,true
+125,Sugar - Crumb,Desserts,32.81,1565,false
+126,Chives - Fresh,Main Dish,28.26,663,true
+127,Cheese - Augre Des Champs,Appetizers,43.73,1529,false
+128,Arrowroot,Appetizers,32.9,698,false
+129,Tuna - Yellowfin,Main Dish,41.89,1249,true
+130,Filling - Mince Meat,Desserts,21.17,403,false
+131,Pastry - Apple Large,Desserts,38.76,1864,false
+132,"Stock - Beef, White",Desserts,47.0,535,true
+133,Shallots,Appetizers,40.38,451,false
+134,"Hickory Smoke, Liquid",Appetizers,6.9,669,false
+135,Island Oasis - Sweet And Sour Mix,Desserts,21.4,782,true
+136,"Bread - Roll, Calabrese",Desserts,30.82,1114,true
+137,Bread - Pita,Main Dish,23.78,718,false
+138,Bandage - Flexible Neon,Desserts,12.48,852,false
+139,Cognac - Courvaisier,Main Dish,6.13,757,true
+140,"Noodles - Cellophane, Thin",Appetizers,49.73,745,true
+141,Island Oasis - Wildberry,Main Dish,39.29,1924,true
+142,Fondant - Icing,Desserts,25.59,1542,true
+143,"Juice - Apple, 1.36l",Main Dish,32.69,273,false
+144,"Crush - Grape, 355 Ml",Main Dish,36.14,276,true
+145,Coffee - Hazelnut Cream,Main Dish,21.73,966,true
+146,Lemon Pepper,Main Dish,43.5,251,false
+147,Okra,Desserts,17.07,1899,true
+148,"Pork - Sausage, Medium",Main Dish,47.04,675,false
+149,Bread - Sour Sticks With Onion,Desserts,13.38,619,false
+150,Roe - White Fish,Main Dish,25.55,1975,true
+151,Pasta - Angel Hair,Main Dish,40.23,1942,true
+152,"Flour - Corn, Fine",Main Dish,24.57,1799,false
+153,Pork - Back Ribs,Appetizers,25.22,1018,false
+154,Seedlings - Clamshell,Main Dish,30.68,1783,true
+155,Wine - Ej Gallo Sonoma,Appetizers,15.74,826,true
+156,Chicken - Soup Base,Appetizers,19.9,789,true
+157,Lid - 16 Oz And 32 Oz,Desserts,9.72,1015,false
+158,"Beans - Black Bean, Canned",Main Dish,49.57,738,false
+159,Chutney Sauce - Mango,Desserts,13.33,958,true
+160,Butter - Pod,Main Dish,33.36,290,true
+161,"Tortillas - Flour, 12",Desserts,28.72,214,false
+162,Filling - Mince Meat,Desserts,44.06,1113,false
+163,"Club Soda - Schweppes, 355 Ml",Main Dish,47.35,515,true
+164,Beer - Upper Canada Light,Main Dish,7.2,676,false
+165,Cheese Cheddar Processed,Main Dish,46.98,1504,false
+166,"Lamb - Racks, Frenched",Desserts,16.51,265,false
+167,Honey - Lavender,Desserts,41.44,188,true
+168,Creamers - 10%,Appetizers,35.77,788,true
+169,Cheese - Swiss Sliced,Desserts,32.41,1872,false
+170,Wine - Pinot Grigio Collavini,Main Dish,24.31,1962,true
+171,Ezy Change Mophandle,Appetizers,22.61,584,true
+172,Wine - Lamancha Do Crianza,Appetizers,15.09,1599,true
+173,Veal - Liver,Desserts,30.46,664,true
+174,Energy Drink - Franks Pineapple,Appetizers,5.18,1017,false
+175,Salami - Genova,Desserts,30.51,544,true
+176,Bread - Italian Corn Meal Poly,Desserts,22.71,1612,true
+177,Pate - Liver,Appetizers,16.98,760,true
+178,Tomatoes Tear Drop Yellow,Appetizers,18.12,605,false
+179,Pasta - Canelloni,Appetizers,19.38,1746,false
+180,Puff Pastry - Sheets,Appetizers,44.76,1101,false
+181,Blueberries,Main Dish,26.03,331,false
+182,"Napkin - Beverge, White 2 - Ply",Desserts,35.15,699,false
+183,Chickensplit Half,Main Dish,38.06,302,true
+184,Sugar - Splenda Sweetener,Desserts,5.67,1287,true
+185,Ice Cream - Life Savers,Desserts,11.73,817,false
+186,"Mop Head - Cotton, 24 Oz",Desserts,19.66,1295,true
+187,Chocolate Eclairs,Main Dish,45.52,1348,true
+188,Sugar - Fine,Appetizers,32.57,1171,false
+189,Cheese - Comtomme,Main Dish,31.31,1768,true
+190,Praline Paste,Desserts,43.95,1830,true
+191,"Lid - 10,12,16 Oz",Desserts,31.4,200,true
+192,Bread Cranberry Foccacia,Main Dish,45.23,1303,true
+193,"Iced Tea - Lemon, 460 Ml",Appetizers,24.76,762,false
+194,Paper Towel Touchless,Main Dish,37.7,1116,false
+195,Tea - Mint,Desserts,18.27,1940,false
+196,"Water - Mineral, Carbonated",Desserts,13.05,318,true
+197,Appetizer - Cheese Bites,Main Dish,30.75,1738,false
+198,Squash - Butternut,Main Dish,34.09,1087,true
+199,Stainless Steel Cleaner Vision,Main Dish,18.03,1890,true
+200,Kippers - Smoked,Main Dish,14.85,553,true
+201,Tomato - Plum With Basil,Desserts,49.2,368,true
+202,Beef - Sushi Flat Iron Steak,Appetizers,14.06,213,false
+203,"Turkey - Whole, Fresh",Appetizers,17.05,427,true
+204,Potatoes - Idaho 80 Count,Appetizers,27.87,638,true
+205,Lotus Rootlets - Canned,Main Dish,10.96,657,true
+206,Lettuce - Romaine,Main Dish,36.32,163,false
+207,Flour - Fast / Rapid,Main Dish,5.55,1382,false
+208,Cup - 4oz Translucent,Main Dish,33.75,876,true
+209,Butter Balls Salted,Main Dish,30.75,1800,true
+210,"Veal - Round, Eye Of",Desserts,37.8,1633,true
+211,Straw - Regular,Appetizers,5.93,1520,false
+212,Flower - Carnations,Desserts,22.91,425,false
+213,Cheese - Fontina,Appetizers,8.26,1621,true
+214,Mints - Striped Red,Desserts,7.54,1000,true
+215,"Salmon - Smoked, Sliced",Appetizers,29.51,934,false
+216,Muffin - Banana Nut Individual,Main Dish,5.5,1255,false
+217,Syrup - Chocolate,Appetizers,47.9,1911,true
+218,Pork - Sausage Casing,Appetizers,21.43,1877,true
+219,Creme De Menthe Green,Desserts,15.17,825,false
+220,Evaporated Milk - Skim,Appetizers,37.3,1023,true
+221,Onions - Red,Main Dish,38.14,1103,false
+222,"Turkey - Breast, Smoked",Desserts,44.57,1224,false
+223,Wine - Savigny - Les - Beaune,Appetizers,45.25,1910,true
+224,Tumeric,Main Dish,9.84,1449,true
+225,Peach - Halves,Main Dish,42.08,1608,false
+226,Chicken - Livers,Main Dish,49.32,1024,false
+227,Muffin Hinge - 211n,Main Dish,13.0,1927,true
+228,"Chicken - Leg, Fresh",Desserts,45.94,1235,true
+229,Pie Shell - 5,Appetizers,12.33,1573,true
+230,Dill Weed - Fresh,Desserts,34.02,867,true
+231,"Wine - Red, Metus Rose",Main Dish,25.65,517,true
+232,Cookies - Fortune,Desserts,31.58,723,true
+233,"Quail - Whole, Bone - In",Main Dish,19.58,1028,false
+234,Cheese - Comtomme,Main Dish,41.73,520,true
+235,Bread Base - Gold Formel,Appetizers,39.03,443,false
+236,Pails With Lids,Main Dish,31.82,1267,true
+237,"Yogurt - Blueberry, 175 Gr",Desserts,35.85,1075,false
+238,Milk - Chocolate 250 Ml,Main Dish,43.53,166,false
+239,Pumpkin,Main Dish,14.8,575,false
+240,Soup - Cream Of Potato / Leek,Desserts,47.96,193,true
+241,Pails With Lids,Desserts,20.99,1572,false
+242,Dried Peach,Main Dish,24.12,1395,false
+243,"Crab - Back Fin Meat, Canned",Main Dish,45.49,1933,true
+244,Paper Towel Touchless,Appetizers,44.41,901,true
+245,Canadian Emmenthal,Main Dish,13.92,1794,false
+246,Bread - Kimel Stick Poly,Main Dish,49.95,341,false
+247,Nestea - Iced Tea,Main Dish,33.13,1714,true
+248,Cherries - Frozen,Main Dish,29.24,694,false
+249,Crackers - Melba Toast,Desserts,23.67,1663,false
+250,Oyster - In Shell,Main Dish,26.09,1709,false
+251,Cream - 18%,Main Dish,33.26,1148,false
+252,"Beans - Black Bean, Dry",Main Dish,20.14,1848,false
+253,Muffin - Banana Nut Individual,Appetizers,13.76,1261,true
+254,"Wine - Mas Chicet Rose, Vintage",Main Dish,27.16,874,false
+255,Lotus Leaves,Main Dish,32.78,932,true
+256,Tea - Earl Grey,Main Dish,22.38,1460,true
+257,Red Currants,Desserts,34.64,441,true
+258,Sobe - Green Tea,Main Dish,40.98,329,true
+259,Pasta - Angel Hair,Main Dish,16.14,1817,false
+260,"Beef - Cooked, Corned",Appetizers,37.7,973,true
+261,"Fish - Scallops, Cold Smoked",Desserts,40.66,1573,true
+262,Creme De Cacao White,Main Dish,5.86,937,false
+263,Garlic - Elephant,Main Dish,11.6,838,false
+264,Gooseberry,Appetizers,42.79,508,false
+265,"Pork - Butt, Boneless",Appetizers,44.19,1762,false
+266,Snails - Large Canned,Desserts,5.34,1902,false
+267,Cornish Hen,Main Dish,5.1,1595,false
+268,Cloves - Ground,Main Dish,18.26,1605,true
+269,Wine - Soave Folonari,Appetizers,20.46,1825,false
+270,Aspic - Light,Appetizers,47.85,595,true
+271,Blackberries,Main Dish,43.92,540,true
+272,Ginsing - Fresh,Desserts,11.06,1101,true
+273,Versatainer Nc - 9388,Desserts,8.96,1870,true
+274,Foil Wrap,Desserts,17.64,1233,false
+275,Flour - Whole Wheat,Main Dish,6.5,1855,false
+276,The Pop Shoppe - Grape,Main Dish,17.99,375,true
+277,Veal - Inside,Appetizers,36.09,277,true
+278,Mushroom - King Eryingii,Appetizers,21.48,1398,false
+279,Salami - Genova,Desserts,44.9,1090,false
+280,Chicken - Soup Base,Main Dish,42.87,500,false
+281,Sauce - Hp,Appetizers,49.79,185,false
+282,"Crush - Grape, 355 Ml",Main Dish,29.06,1445,false
+283,Bread - Bistro Sour,Desserts,46.88,531,true
+284,Lambcasing,Desserts,9.61,1942,true
+285,Shopper Bag - S - 4,Main Dish,37.79,1852,false
+286,Sauce - Chili,Appetizers,31.26,1543,true
+287,Beer - Paulaner Hefeweisse,Desserts,47.16,560,false
+288,Coffee Cup 16oz Foam,Desserts,23.03,1099,false
+289,Coffee - 10oz Cup 92961,Desserts,44.71,1008,true
+290,Kiwi Gold Zespri,Desserts,43.66,1180,true
+291,Sorrel - Fresh,Desserts,13.54,1393,true
+292,"Appetizer - Spring Roll, Veg",Appetizers,32.62,507,true
+293,Veal - Insides Provini,Desserts,20.7,1167,false
+294,V8 - Vegetable Cocktail,Desserts,44.33,1338,false
+295,Bag Stand,Desserts,28.11,534,true
+296,Wine - Two Oceans Sauvignon,Main Dish,41.55,162,true
+297,Plate Foam Laminated 9in Blk,Main Dish,49.07,959,true
+298,Wine - Stoneliegh Sauvignon,Desserts,32.49,1515,true
+299,"Cheese - Brie, Cups 125g",Desserts,45.61,739,false
+300,Rosemary - Dry,Desserts,20.84,1010,true
+301,Pastry - Raisin Muffin - Mini,Main Dish,21.77,882,false
+302,Appetizer - Crab And Brie,Main Dish,23.67,1311,false
+303,Laundry - Bag Cloth,Main Dish,39.64,1293,false
+304,"Beans - Turtle, Black, Dry",Appetizers,41.83,1752,true
+305,The Pop Shoppe Pinapple,Main Dish,27.31,712,true
+306,Cake - Bande Of Fruit,Main Dish,36.16,1696,true
+307,Energy Drink Red Bull,Desserts,14.6,986,false
+308,Cake Slab,Desserts,16.56,747,true
+309,Bread - Malt,Main Dish,40.38,1425,false
+310,Mix - Cocktail Strawberry Daiquiri,Main Dish,25.29,1426,false
+311,Caviar - Salmon,Main Dish,26.8,1071,true
+312,Wine - Casillero Deldiablo,Desserts,25.52,1834,true
+313,Wine - Magnotta - Belpaese,Main Dish,16.77,341,true
+314,Ice Cream Bar - Hagen Daz,Desserts,25.77,292,false
+315,Nescafe - Frothy French Vanilla,Main Dish,7.48,825,false
+316,Longan,Main Dish,25.76,1141,true
+317,Cup Translucent 9 Oz,Appetizers,24.03,566,false
+318,Lettuce - Spring Mix,Desserts,34.18,1017,true
+319,Russian Prince,Appetizers,29.41,402,false
+320,"Trout - Hot Smkd, Dbl Fillet",Desserts,23.66,823,false
+321,Mousse - Passion Fruit,Main Dish,9.43,684,false
+322,Mushroom - Chanterelle Frozen,Appetizers,46.62,398,false
+323,Sauce - Soy Low Sodium - 3.87l,Desserts,14.64,1295,true
+324,Plasticspoonblack,Desserts,12.39,559,true
+325,Tea - Vanilla Chai,Appetizers,22.31,753,false
+326,Sugar - Splenda Sweetener,Desserts,19.87,1769,false
+327,Sugar - Cubes,Desserts,44.1,655,true
+328,Cornflakes,Main Dish,26.47,398,true
+329,"Olives - Black, Pitted",Main Dish,14.44,971,false
+330,"Juice - Grape, White",Appetizers,30.61,507,false
+331,Soup - Tomato Mush. Florentine,Main Dish,6.76,1695,true
+332,Soup - Campbells Bean Medley,Desserts,19.4,1151,true
+333,Beef - Eye Of Round,Appetizers,12.19,1473,true
+334,Anisette - Mcguiness,Appetizers,33.61,325,true
+335,Chevere Logs,Desserts,46.57,607,true
+336,Sauce Bbq Smokey,Desserts,28.69,616,false
+337,"Cheese - Cheddar, Medium",Main Dish,41.03,1835,true
+338,Cake - Sheet Strawberry,Appetizers,5.22,813,false
+339,"Soup - Campbells, Spinach Crm",Main Dish,35.6,1734,false
+340,"Beef - Tongue, Cooked",Desserts,48.2,1409,false
+341,Bread Sour Rolls,Appetizers,14.88,1612,false
+342,Myers Planters Punch,Appetizers,15.0,371,true
+343,Flower - Daisies,Main Dish,25.24,1959,true
+344,"Pasta - Rotini, Dry",Appetizers,9.63,847,false
+345,Bar Mix - Lemon,Desserts,19.01,1827,true
+346,Icecream - Dstk Strw Chseck,Desserts,49.37,1776,true
+347,Longos - Grilled Veg Sandwiches,Desserts,11.3,1525,false
+348,Vinegar - Champagne,Main Dish,29.79,849,true
+349,Pork - Back Ribs,Desserts,29.41,1984,true
+350,Broom - Angled,Appetizers,44.26,963,false
+351,Muffin Mix - Carrot,Main Dish,25.93,198,false
+352,Flavouring Vanilla Artificial,Desserts,49.96,1432,true
+353,Chocolate - Feathers,Appetizers,15.4,741,false
+354,Steampan - Lid For Half Size,Appetizers,10.07,538,true
+355,Tuna - Yellowfin,Desserts,5.7,604,true
+356,Wine - Vidal Icewine Magnotta,Appetizers,47.78,229,true
+357,"Arctic Char - Fresh, Whole",Appetizers,32.89,1105,true
+358,Cheese - Wine,Appetizers,7.66,270,true
+359,Steampan - Foil,Appetizers,6.12,227,true
+360,Flour - All Purpose,Appetizers,49.3,249,false
+361,Sage Derby,Main Dish,29.7,1392,false
+362,Cheese - Goat,Main Dish,13.53,678,true
+363,Wine - Niagara Peninsula Vqa,Desserts,6.49,726,false
+364,Wine - Prem Select Charddonany,Desserts,17.83,624,false
+365,"Trout - Hot Smkd, Dbl Fillet",Appetizers,11.05,1066,false
+366,Bar Bran Honey Nut,Appetizers,19.34,598,false
+367,"Beef - Tongue, Cooked",Main Dish,49.54,1937,true
+368,Longos - Chicken Caeser Salad,Appetizers,24.17,984,true
+369,Versatainer Nc - 8288,Main Dish,22.94,1728,true
+370,Wine - Chateauneuf Du Pape,Appetizers,9.17,1144,true
+371,"Lamb - Pieces, Diced",Desserts,6.75,509,false
+372,"Tart Shells - Savory, 2",Desserts,41.72,1172,true
+373,Anchovy Fillets,Appetizers,20.66,1298,true
+374,"Tart Shells - Barquettes, Savory",Desserts,14.44,1461,true
+375,Wine - Cabernet Sauvignon,Desserts,19.03,1352,true
+376,"Cherries - Maraschino,jar",Desserts,18.64,875,true
+377,"Pasta - Fettuccine, Dry",Appetizers,14.3,303,false
+378,Cheese - Wine,Appetizers,19.45,391,true
+379,Cabbage Roll,Appetizers,40.5,496,false
+380,Lettuce - Escarole,Main Dish,44.05,1298,true
+381,Bread - Sour Sticks With Onion,Main Dish,31.13,1939,false
+382,Cinnamon Buns Sticky,Appetizers,47.58,900,false
+383,Plastic Arrow Stir Stick,Appetizers,22.89,1289,true
+384,Plastic Arrow Stir Stick,Appetizers,8.0,1990,false
+385,Anchovy Fillets,Appetizers,30.95,1519,false
+386,"Pork - Butt, Boneless",Appetizers,25.88,687,false
+387,Tomatoes Tear Drop,Main Dish,38.13,1876,true
+388,Yogurt - Plain,Desserts,34.68,1187,true
+389,Tea - Vanilla Chai,Main Dish,40.83,1216,false
+390,Appetizer - Cheese Bites,Appetizers,14.42,1033,false
+391,"Juice - Grape, White",Appetizers,16.85,1287,false
+392,"Shrimp - 21/25, Peel And Deviened",Appetizers,9.88,1622,true
+393,Straw - Regular,Appetizers,44.92,1826,true
+394,Soup Campbells Mexicali Tortilla,Desserts,32.86,1338,true
+395,"Pepper - Paprika, Hungarian",Appetizers,11.96,1571,true
+396,Chicken - Leg / Back Attach,Appetizers,6.86,256,false
+397,Carrots - Jumbo,Desserts,48.0,654,false
+398,Zucchini - Yellow,Appetizers,6.21,1815,false
+399,Sugar - Palm,Main Dish,9.17,975,true
+400,Apples - Sliced / Wedge,Main Dish,30.46,1758,true
+401,Pate - Liver,Appetizers,24.52,1445,true
+402,Yokaline,Appetizers,34.66,530,false
+403,Appetizer - Chicken Satay,Desserts,29.07,1424,false
+404,"Water - Mineral, Natural",Appetizers,5.43,1110,false
+405,"Lamb - Shoulder, Boneless",Appetizers,29.44,901,false
+406,"Beans - Fava, Canned",Appetizers,25.67,551,true
+407,"Pasta - Fettuccine, Dry",Appetizers,28.88,1330,false
+408,"Apple - Delicious, Golden",Appetizers,40.3,1624,false
+409,Sprouts - Bean,Main Dish,34.17,317,true
+410,Coffee - Flavoured,Main Dish,14.74,328,false
+411,Shrimp - 150 - 250,Main Dish,31.19,310,true
+412,Cheese - Brie,Main Dish,36.21,1846,false
+413,Glass - Juice Clear 5oz 55005,Appetizers,34.49,874,false
+414,Cloves - Whole,Appetizers,18.67,482,false
+415,Syrup - Monin - Passion Fruit,Appetizers,15.41,1030,false
+416,"Soup - Beef Conomme, Dry",Appetizers,9.11,681,true
+417,Vaccum Bag - 14x20,Desserts,48.26,1992,false
+418,Ham - Black Forest,Desserts,6.3,365,true
+419,Fudge - Chocolate Fudge,Main Dish,42.74,1553,true
+420,Wine - Clavet Saint Emilion,Desserts,46.05,964,true
+421,Saskatoon Berries - Frozen,Desserts,43.59,1247,false
+422,Pepper - Red Chili,Appetizers,22.04,526,false
+423,Beer - Labatt Blue,Desserts,9.37,567,true
+424,Coffee - Espresso,Main Dish,34.62,768,false
+425,Oil - Coconut,Appetizers,40.92,657,false
+426,Dried Figs,Main Dish,24.12,1409,false
+427,Cookies - Assorted,Main Dish,13.88,1888,true
+428,"Lettuce - Mini Greens, Whole",Desserts,8.85,900,true
+429,Limes,Main Dish,43.09,621,false
+430,"Mushroom - Chanterelle, Dry",Desserts,34.99,1410,false
+431,Melon - Cantaloupe,Appetizers,34.18,439,false
+432,Muffin Mix - Carrot,Main Dish,27.56,1014,false
+433,"Tuna - Canned, Flaked, Light",Appetizers,14.93,426,false
+434,Otomegusa Dashi Konbu,Appetizers,6.19,1901,true
+435,"Quail - Eggs, Fresh",Appetizers,26.34,960,true
+436,Pasta - Ravioli,Appetizers,16.36,1886,false
+437,Lid Tray - 16in Dome,Main Dish,42.03,682,true
+438,Vinegar - Champagne,Desserts,37.9,323,true
+439,Beans - French,Main Dish,48.37,499,false
+440,Beets - Mini Golden,Desserts,7.43,693,true
+441,Pork - Liver,Desserts,17.25,419,true
+442,"Mushroom - Chanterelle, Dry",Appetizers,36.33,804,false
+443,Aspic - Amber,Appetizers,8.94,1945,false
+444,Pork - Ground,Desserts,20.99,903,false
+445,Sherry - Dry,Appetizers,45.67,1601,false
+446,Beets - Golden,Desserts,33.8,1712,false
+447,Muskox - French Rack,Main Dish,41.62,895,false
+448,Wine - Prem Select Charddonany,Appetizers,40.71,1658,true
+449,Danishes - Mini Raspberry,Main Dish,33.99,470,false
+450,Wanton Wrap,Main Dish,13.64,1604,false
+451,Wine - Cousino Macul Antiguas,Main Dish,19.54,203,false
+452,Sauce - Soy Low Sodium - 3.87l,Desserts,16.01,302,false
+453,Cheese - Oka,Desserts,21.41,765,true
+454,Olives - Morracan Dired,Appetizers,29.66,1975,false
+455,Soho Lychee Liqueur,Main Dish,22.68,1183,false
+456,Cherries - Fresh,Main Dish,25.37,1077,true
+457,Wine - Ruffino Chianti Classico,Appetizers,39.52,1041,true
+458,"Fish - Scallops, Cold Smoked",Desserts,25.16,1346,false
+459,Apple - Granny Smith,Desserts,14.86,1582,false
+460,Muffins - Assorted,Desserts,28.31,1300,true
+461,"Bread - Crumbs, Bulk",Main Dish,31.75,1319,true
+462,Sugar - Fine,Desserts,15.28,1758,true
+463,"Vodka - Lemon, Absolut",Appetizers,19.28,1405,true
+464,Ice Cream Bar - Rolo Cone,Desserts,39.41,1710,true
+465,Fondant - Icing,Appetizers,7.92,375,false
+466,Cloves - Whole,Desserts,33.23,313,true
+467,"Carrots - Mini, Stem On",Desserts,8.64,189,false
+468,"Chestnuts - Whole,canned",Main Dish,31.34,1375,false
+469,Molasses - Fancy,Desserts,46.23,1750,false
+470,Tamarillo,Main Dish,11.84,1836,true
+471,"Coconut - Shredded, Unsweet",Appetizers,31.7,255,true
+472,Longos - Chicken Curried,Appetizers,47.95,1429,false
+473,Muffin - Zero Transfat,Main Dish,21.55,782,false
+474,French Pastries,Main Dish,30.84,834,true
+475,Syrup - Monin - Passion Fruit,Desserts,10.09,1874,true
+476,Cheese - St. Paulin,Appetizers,46.27,702,true
+477,Oil - Sunflower,Desserts,6.13,1624,false
+478,Island Oasis - Ice Cream Mix,Main Dish,13.76,1354,false
+479,Soup Campbells Mexicali Tortilla,Desserts,26.01,313,true
+480,Grapefruit - Pink,Appetizers,44.47,1714,true
+481,Lettuce - Arugula,Desserts,43.02,617,false
+482,Soup - Campbells Mac N Cheese,Main Dish,26.97,459,true
+483,Transfer Sheets,Main Dish,40.02,732,false
+484,Wine - Zinfandel Rosenblum,Main Dish,27.7,1176,false
+485,Thyme - Dried,Main Dish,47.15,1345,true
+486,Pork - Hock And Feet Attached,Appetizers,47.68,549,false
+487,Nut - Pumpkin Seeds,Appetizers,28.86,1382,false
+488,"Turkey - Breast, Boneless Sk On",Desserts,44.32,905,true
+489,Sage - Ground,Desserts,45.24,727,false
+490,Guava,Desserts,34.3,820,true
+491,Amaretto,Desserts,46.4,1566,true
+492,"Oil - Truffle, White",Appetizers,9.21,688,false
+493,"Juice - Pineapple, 48 Oz",Main Dish,21.79,760,true
+494,Temperature Recording Station,Appetizers,7.77,1754,false
+495,Sauce - Demi Glace,Appetizers,45.83,632,false
+496,Flour Dark Rye,Main Dish,38.03,1675,true
+497,Oranges,Main Dish,14.62,1095,false
+498,Bread - Corn Muffaletta,Main Dish,19.57,524,false
+499,"Pasta - Cannelloni, Sheets, Fresh",Appetizers,20.79,690,false
+500,Oil - Canola,Appetizers,38.29,706,true

@@ -1,1 +1,1 @@
-SELECT * FROM Dishes
+SELECT * FROM Restaurants
