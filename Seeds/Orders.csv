@@ -1,501 +1,501 @@
 OrderID,OrderType,Adress,TotalAmount,DeliveryTime,GuestNote,RestaurantID,GuestID
-1,Nije dostava,7734 Hermina Alley,127.44,6:22 AM,"",244,228
-2,Nije dostava,6 Fairview Road,66.21,9:23 PM,"",386,381
-3,Dostava,13676 Fairview Point,50.96,4:41 PM,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,327,191
-4,Nije dostava,09576 Garrison Way,53.92,7:14 AM,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",189,289
-5,Dostava,42904 Memorial Road,77.5,9:27 PM,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,299,31
-6,Nije dostava,7162 Manufacturers Parkway,99.21,12:11 AM,Nulla ac enim.,499,377
-7,Nije dostava,99 Kenwood Court,67.21,11:51 AM,"",494,337
-8,Nije dostava,85 Coleman Way,65.05,6:40 AM,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,52,466
-9,Nije dostava,86 Hovde Place,15.08,1:46 AM,Integer non velit.,46,477
-10,Nije dostava,13649 Banding Plaza,35.84,2:36 PM,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",179,50
-11,Nije dostava,5 Anniversary Terrace,70.06,5:13 AM,Aenean sit amet justo. Morbi ut odio.,122,77
-12,Nije dostava,72240 Dryden Avenue,91.22,2:13 PM,"",380,473
-13,Dostava,4433 Clyde Gallagher Alley,26.9,9:39 PM,Ut at dolor quis odio consequat varius.,463,261
-14,Nije dostava,18 Loftsgordon Avenue,43.45,2:32 PM,"",76,40
-15,Nije dostava,0 Sunfield Street,128.65,4:20 PM,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",338,274
-16,Dostava,2543 Packers Avenue,9.32,6:18 AM,"",197,255
-17,Dostava,8136 Declaration Terrace,12.06,1:38 AM,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",53,187
-18,Dostava,52607 Fremont Alley,129.85,4:22 AM,Morbi quis tortor id nulla ultrices aliquet.,421,489
-19,Nije dostava,006 Carioca Lane,52.74,11:49 PM,"",221,268
-20,Dostava,65 La Follette Alley,83.57,7:50 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",431,318
-21,Dostava,9725 Prentice Avenue,33.65,1:15 PM,In hac habitasse platea dictumst.,48,3
-22,Dostava,50 Pankratz Street,24.14,8:31 PM,"",111,218
-23,Nije dostava,1 Forest Run Center,135.81,9:24 AM,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,156,17
-24,Dostava,75566 Sutherland Parkway,114.22,6:08 PM,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",279,154
-25,Nije dostava,55109 Coolidge Parkway,17.15,5:47 PM,"",254,118
-26,Nije dostava,27342 Carey Center,12.26,3:03 AM,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",72,247
-27,Dostava,9 Dennis Crossing,149.86,6:25 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",131,16
-28,Dostava,204 Northwestern Plaza,11.88,8:15 AM,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",433,176
-29,Nije dostava,2784 Hollow Ridge Place,66.29,12:28 PM,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,419,222
-30,Nije dostava,839 Fremont Hill,144.93,11:09 AM,"",265,263
-31,Nije dostava,3 Charing Cross Way,31.13,7:43 AM,Nulla ac enim.,339,440
-32,Nije dostava,333 Killdeer Point,33.04,8:21 AM,"",359,469
-33,Dostava,25292 Tennyson Point,44.36,9:41 AM,"",20,204
-34,Nije dostava,3 Schurz Terrace,24.94,11:03 AM,Aliquam erat volutpat.,335,330
-35,Dostava,8 Grayhawk Circle,89.73,2:17 AM,Nulla tempus.,377,236
-36,Dostava,57 Jenna Alley,120.3,1:26 AM,In quis justo.,164,305
-37,Nije dostava,87992 Graedel Center,121.68,7:51 PM,Proin risus. Praesent lectus.,2,105
-38,Nije dostava,545 Mallory Place,128.86,11:01 AM,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",227,174
-39,Nije dostava,52139 Roxbury Center,11.0,12:28 AM,"",42,25
-40,Dostava,65692 Texas Circle,141.75,8:23 AM,"",220,104
-41,Nije dostava,26899 8th Avenue,117.68,6:20 PM,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,32,29
-42,Nije dostava,9835 Parkside Way,71.69,7:01 PM,"",143,55
-43,Dostava,2 Haas Place,80.98,11:40 AM,Proin risus. Praesent lectus.,150,119
-44,Nije dostava,537 Lakewood Terrace,46.08,12:47 AM,"",416,456
-45,Nije dostava,439 Lakewood Road,26.78,2:26 PM,"",101,84
-46,Nije dostava,1771 Hallows Hill,53.91,11:53 AM,Duis aliquam convallis nunc.,29,366
-47,Nije dostava,040 Roth Street,104.64,10:39 PM,"",187,375
-48,Nije dostava,89052 Sunfield Pass,32.03,4:16 PM,Integer ac neque. Duis bibendum.,290,97
-49,Nije dostava,88 Sutherland Parkway,135.2,6:00 PM,Duis bibendum. Morbi non quam nec dui luctus rutrum.,273,21
-50,Nije dostava,142 Dorton Park,35.26,2:59 AM,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,161,398
-51,Dostava,92668 Mendota Point,140.74,1:39 AM,Proin at turpis a pede posuere nonummy.,318,448
-52,Nije dostava,165 Lotheville Parkway,95.87,9:45 AM,Duis bibendum.,94,363
-53,Dostava,10 Banding Place,69.38,3:40 AM,"",285,164
-54,Dostava,021 Clarendon Hill,100.32,5:35 AM,In quis justo.,424,281
-55,Dostava,35 Longview Pass,17.11,3:55 PM,"",83,462
-56,Nije dostava,8033 Nevada Circle,98.34,8:55 AM,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",10,468
-57,Dostava,8 Sheridan Alley,13.53,5:11 PM,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",329,130
-58,Dostava,55409 Harbort Court,57.93,11:03 AM,"",255,357
-59,Dostava,3357 Sutherland Trail,38.8,5:09 AM,"",236,63
-60,Dostava,7 Dennis Drive,30.79,9:56 AM,Praesent blandit lacinia erat.,468,423
-61,Nije dostava,4676 Derek Avenue,56.04,10:01 PM,Integer tincidunt ante vel ipsum.,376,278
-62,Nije dostava,6 Farwell Avenue,59.58,4:48 PM,"",412,441
-63,Nije dostava,92 Farwell Alley,11.26,6:21 PM,Suspendisse potenti. In eleifend quam a odio.,306,199
-64,Dostava,3 Bluestem Lane,69.05,12:19 AM,Etiam faucibus cursus urna.,478,447
-65,Dostava,0757 Stuart Junction,12.21,6:22 AM,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",480,170
-66,Nije dostava,589 Garrison Center,32.54,12:10 PM,"",320,291
-67,Dostava,56278 Maple Wood Avenue,136.7,1:32 AM,"",224,76
-68,Dostava,09455 Paget Drive,91.72,12:46 PM,"",222,72
-69,Dostava,421 Morning Terrace,108.35,10:44 AM,Quisque id justo sit amet sapien dignissim vestibulum.,8,227
-70,Dostava,617 Golf View Park,109.54,8:22 AM,Nullam varius.,151,13
-71,Nije dostava,8963 Charing Cross Avenue,49.92,10:46 AM,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",63,66
-72,Nije dostava,376 Loeprich Center,55.21,7:32 AM,"",205,368
-73,Dostava,5 Rigney Drive,99.88,6:09 AM,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",121,352
-74,Nije dostava,097 Morning Plaza,112.99,7:25 AM,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",384,210
-75,Nije dostava,46 Iowa Crossing,101.91,10:59 AM,"",33,7
-76,Nije dostava,93997 Bay Road,71.98,7:33 AM,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",400,54
-77,Dostava,886 Graedel Plaza,24.65,8:22 PM,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,372,450
-78,Nije dostava,42 Dahle Street,144.96,2:51 PM,Aenean lectus.,168,165
-79,Nije dostava,03020 Eagle Crest Circle,100.69,5:35 AM,Quisque id justo sit amet sapien dignissim vestibulum.,120,452
-80,Dostava,10 Florence Way,148.5,2:34 AM,"",301,470
-81,Nije dostava,09001 Blaine Court,118.0,7:14 PM,"",326,234
-82,Dostava,33791 Burrows Alley,130.56,7:27 PM,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,476,347
-83,Dostava,51037 Mandrake Junction,16.58,9:18 PM,Pellentesque at nulla. Suspendisse potenti.,302,463
-84,Nije dostava,0 Ronald Regan Terrace,73.15,8:32 AM,Aliquam non mauris. Morbi non lectus.,207,212
-85,Dostava,7726 Katie Center,61.06,1:35 PM,Nullam varius. Nulla facilisi.,293,486
-86,Dostava,3 Forest Run Drive,31.59,12:55 PM,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,486,434
-87,Dostava,3 Trailsway Crossing,107.05,7:12 PM,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,169,57
-88,Dostava,63 Gerald Road,43.81,4:49 AM,Integer ac leo.,406,360
-89,Dostava,21 Ilene Road,63.19,3:06 AM,"",105,152
-90,Nije dostava,2404 Summer Ridge Road,109.42,5:50 PM,In congue. Etiam justo.,415,414
-91,Nije dostava,29330 Kensington Way,96.59,11:03 PM,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,241,144
-92,Nije dostava,3 Autumn Leaf Trail,89.12,7:57 PM,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,134,209
-93,Dostava,72 Karstens Parkway,41.02,8:12 PM,Quisque ut erat.,13,286
-94,Dostava,7 Michigan Pass,111.37,8:16 AM,Nulla tempus.,485,483
-95,Nije dostava,258 Continental Alley,127.17,4:59 AM,Fusce consequat.,344,479
-96,Nije dostava,1 Bluejay Way,70.21,9:22 PM,Praesent blandit lacinia erat.,277,239
-97,Dostava,3415 Claremont Court,86.27,2:54 AM,Quisque porta volutpat erat.,19,335
-98,Nije dostava,7 Aberg Terrace,143.8,9:28 PM,"",296,219
-99,Dostava,93876 Garrison Drive,99.59,5:50 PM,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,199,430
-100,Dostava,8428 Fairview Way,139.35,6:46 AM,"",381,69
-101,Nije dostava,69154 Pleasure Trail,29.06,12:04 PM,"",387,171
-102,Dostava,1 Arrowood Drive,45.83,4:45 AM,Etiam justo. Etiam pretium iaculis justo.,491,454
-103,Nije dostava,2067 Spaight Parkway,82.61,9:50 PM,"",231,141
-104,Dostava,10852 Susan Alley,148.01,9:58 PM,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",213,496
-105,Dostava,26790 Declaration Place,14.73,9:35 AM,"",364,185
-106,Dostava,27640 Longview Way,97.45,12:47 AM,"",203,369
-107,Nije dostava,792 Tennessee Crossing,97.79,4:24 AM,Sed vel enim sit amet nunc viverra dapibus.,31,388
-108,Nije dostava,9 Russell Court,118.83,11:03 PM,"",175,437
-109,Dostava,346 Kingsford Drive,142.18,12:17 PM,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",442,168
-110,Dostava,1 Corben Hill,44.89,9:54 AM,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",50,61
-111,Nije dostava,0 Montana Circle,29.67,9:04 PM,"",119,250
-112,Dostava,3689 Stone Corner Trail,77.26,9:03 AM,Ut tellus. Nulla ut erat id mauris vulputate elementum.,191,373
-113,Dostava,4 Ronald Regan Point,114.5,6:15 PM,"",157,349
-114,Nije dostava,07108 Tennyson Point,114.35,11:02 AM,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",369,5
-115,Dostava,6 Northview Center,117.52,5:01 PM,Integer ac neque.,305,340
-116,Dostava,7298 Brown Junction,71.01,2:33 PM,"",108,285
-117,Dostava,5 Ludington Center,90.0,6:00 AM,Etiam faucibus cursus urna. Ut tellus.,45,175
-118,Dostava,7106 Lerdahl Terrace,76.28,1:26 AM,"",172,395
-119,Dostava,247 Manufacturers Crossing,75.84,5:14 PM,"",153,295
-120,Nije dostava,024 Mandrake Court,112.35,1:21 PM,"",35,127
-121,Dostava,65 Johnson Plaza,105.25,2:23 PM,Quisque id justo sit amet sapien dignissim vestibulum.,71,163
-122,Nije dostava,64767 Orin Circle,87.02,6:50 AM,"",268,471
-123,Dostava,390 Sunbrook Court,18.09,11:29 AM,"",262,474
-124,Dostava,487 American Avenue,45.88,4:10 AM,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,127,282
-125,Dostava,1 Orin Terrace,109.84,6:14 PM,"",23,252
-126,Dostava,1759 Red Cloud Junction,100.87,5:05 AM,Nunc purus.,98,367
-127,Nije dostava,78066 Northview Alley,56.87,9:05 PM,Nulla tellus. In sagittis dui vel nisl.,55,334
-128,Dostava,5 Cordelia Hill,90.5,1:43 AM,"",86,319
-129,Nije dostava,2983 Hermina Point,26.94,10:28 AM,Curabitur convallis.,278,37
-130,Dostava,1 Doe Crossing Junction,30.05,4:59 AM,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,274,460
-131,Dostava,6715 Rieder Park,92.29,6:58 AM,Nam tristique tortor eu pede.,26,385
-132,Dostava,4 Gale Place,92.18,10:57 PM,Nulla mollis molestie lorem.,289,299
-133,Nije dostava,20986 Hayes Alley,113.94,2:43 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",249,413
-134,Nije dostava,5310 Hallows Hill,103.88,12:39 PM,Nulla ac enim.,452,297
-135,Nije dostava,077 Anderson Street,11.31,9:09 AM,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",453,258
-136,Nije dostava,4348 Trailsway Crossing,92.25,4:40 AM,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,58,136
-137,Dostava,7097 Stone Corner Junction,105.69,10:17 AM,Integer ac neque. Duis bibendum.,413,121
-138,Dostava,5 Moulton Street,39.21,3:24 PM,"",138,259
-139,Dostava,7350 Nancy Hill,11.88,4:45 AM,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",368,102
-140,Dostava,53 Randy Drive,109.03,5:11 AM,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",60,484
-141,Dostava,56 Pepper Wood Trail,82.05,6:45 PM,Sed accumsan felis. Ut at dolor quis odio consequat varius.,414,120
-142,Dostava,7 Lunder Avenue,31.12,8:12 PM,Cras in purus eu magna vulputate luctus.,367,326
-143,Nije dostava,068 7th Parkway,18.09,1:28 AM,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",154,308
-144,Nije dostava,4365 Independence Park,87.5,2:37 AM,Aenean fermentum.,457,467
-145,Nije dostava,93 Ohio Park,111.61,12:46 PM,"",126,407
-146,Nije dostava,9110 Fairfield Park,105.21,12:20 PM,"",140,81
-147,Nije dostava,19802 Quincy Court,90.57,6:50 AM,"",230,396
-148,Nije dostava,7 Sycamore Street,54.56,9:54 AM,"",92,145
-149,Dostava,5418 Straubel Hill,95.63,3:41 AM,"",49,240
-150,Dostava,30 Straubel Plaza,8.22,1:52 PM,Morbi non quam nec dui luctus rutrum. Nulla tellus.,114,158
-151,Nije dostava,83 Merry Alley,139.36,10:49 PM,Suspendisse potenti. In eleifend quam a odio.,388,433
-152,Nije dostava,7 Starling Avenue,8.49,4:00 AM,"",343,142
-153,Nije dostava,05 Calypso Alley,78.7,5:54 AM,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,383,422
-154,Nije dostava,83259 Bunting Alley,33.5,9:36 PM,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,34,180
-155,Dostava,991 Erie Court,54.52,4:52 PM,"",210,350
-156,Dostava,77 Sullivan Drive,149.34,11:52 AM,Etiam justo. Etiam pretium iaculis justo.,350,403
-157,Nije dostava,65 Autumn Leaf Junction,118.3,8:35 AM,Nulla ac enim.,354,311
-158,Dostava,32098 Pepper Wood Street,40.94,11:21 AM,"",128,246
-159,Nije dostava,24 Sunnyside Terrace,11.39,9:21 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",79,392
-160,Nije dostava,06438 Garrison Hill,59.18,10:16 AM,Donec posuere metus vitae ipsum.,145,190
-161,Nije dostava,7 Darwin Point,68.23,9:34 AM,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",238,427
-162,Dostava,41781 Mcguire Pass,80.68,4:57 PM,Maecenas rhoncus aliquam lacus.,38,52
-163,Dostava,95 Melby Terrace,28.56,9:04 AM,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",103,238
-164,Dostava,8735 Amoth Terrace,68.42,12:06 AM,"",104,453
-165,Nije dostava,3891 John Wall Crossing,112.94,7:39 AM,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,81,383
-166,Dostava,3 Transport Drive,41.42,2:53 PM,"",211,488
-167,Nije dostava,674 Homewood Drive,54.53,8:06 PM,Curabitur in libero ut massa volutpat convallis.,422,455
-168,Dostava,6 Columbus Place,131.89,7:45 AM,"",253,43
-169,Dostava,41 Hoffman Center,87.35,2:12 PM,Cras in purus eu magna vulputate luctus.,390,313
-170,Dostava,8560 Thackeray Road,147.5,8:01 AM,"",178,265
-171,Nije dostava,596 Superior Pass,17.01,8:51 PM,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",411,307
-172,Nije dostava,91 Moulton Pass,86.52,5:46 AM,Donec posuere metus vitae ipsum.,455,408
-173,Nije dostava,44 Quincy Junction,140.1,2:40 PM,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",403,56
-174,Nije dostava,9904 Mitchell Place,56.07,2:47 PM,Duis mattis egestas metus.,228,117
-175,Nije dostava,4686 Mitchell Trail,71.65,11:56 PM,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,9,482
-176,Dostava,27393 Hanson Alley,23.68,7:08 AM,"",90,445
-177,Dostava,822 Spohn Point,34.23,8:52 PM,"",82,343
-178,Dostava,252 Bonner Crossing,59.28,4:51 AM,"",405,116
-179,Dostava,7 Upham Crossing,114.22,11:02 AM,Duis ac nibh.,481,126
-180,Nije dostava,28135 Vernon Crossing,144.71,1:42 AM,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",96,346
-181,Dostava,89 Chive Junction,46.78,6:44 PM,"",160,266
-182,Nije dostava,699 Northfield Place,120.68,11:00 PM,"",312,244
-183,Dostava,71442 Nobel Terrace,42.35,10:28 PM,Nulla ut erat id mauris vulputate elementum.,97,378
-184,Dostava,529 Northfield Court,92.74,10:22 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",441,114
-185,Nije dostava,90 Petterle Crossing,131.16,8:14 PM,"",80,320
-186,Nije dostava,24140 Clemons Crossing,47.38,2:20 AM,"",373,237
-187,Nije dostava,6501 Eggendart Terrace,16.53,4:40 PM,"",129,351
-188,Dostava,53 Hintze Hill,134.13,6:27 AM,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",397,459
-189,Nije dostava,20 Weeping Birch Street,73.63,3:46 AM,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,141,322
-190,Dostava,980 Vidon Terrace,7.39,6:07 AM,"",91,328
-191,Nije dostava,8603 Acker Parkway,141.88,11:02 PM,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,135,492
-192,Dostava,164 Doe Crossing Junction,103.9,8:58 AM,"",410,418
-193,Dostava,86 Bayside Street,127.36,8:29 PM,Sed sagittis.,417,123
-194,Nije dostava,47560 Corry Terrace,92.23,10:14 PM,"",475,28
-195,Nije dostava,1224 Del Sol Drive,143.62,4:05 AM,"",435,264
-196,Nije dostava,13603 Forster Point,26.02,11:10 PM,Nulla justo.,51,15
-197,Dostava,3 Lawn Plaza,21.91,8:47 PM,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,467,374
-198,Nije dostava,73 Washington Trail,16.44,3:06 PM,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,482,14
-199,Nije dostava,6334 North Point,46.39,2:54 PM,"",176,306
-200,Nije dostava,73 Parkside Trail,66.7,3:22 AM,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",256,20
-201,Dostava,1 Bartelt Hill,118.22,9:45 PM,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",271,226
-202,Dostava,53 Banding Pass,139.47,5:46 PM,"",109,270
-203,Nije dostava,65 Schiller Junction,24.86,9:50 PM,Sed vel enim sit amet nunc viverra dapibus.,186,449
-204,Nije dostava,8331 Homewood Junction,13.5,12:34 AM,Duis bibendum.,89,78
-205,Dostava,94 Crest Line Court,135.95,11:47 AM,Sed sagittis.,466,33
-206,Nije dostava,755 Londonderry Alley,118.16,12:56 AM,Etiam vel augue. Vestibulum rutrum rutrum neque.,275,390
-207,Dostava,444 Artisan Pass,41.71,3:22 AM,Nulla justo.,229,35
-208,Dostava,50 Bunting Alley,43.18,11:52 AM,"",426,159
-209,Nije dostava,172 Sullivan Plaza,98.13,5:06 AM,Aliquam non mauris. Morbi non lectus.,317,372
-210,Dostava,5 Lien Place,18.66,9:02 PM,Nulla facilisi.,75,332
-211,Dostava,4989 Warbler Lane,7.81,4:04 PM,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",346,353
-212,Dostava,54482 Sloan Trail,118.32,5:37 PM,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,461,362
-213,Nije dostava,493 1st Hill,43.93,1:38 PM,Ut at dolor quis odio consequat varius. Integer ac leo.,345,290
-214,Dostava,7625 Basil Trail,137.78,6:00 AM,Quisque ut erat.,495,384
-215,Nije dostava,1074 Gulseth Court,72.63,1:01 PM,Suspendisse potenti. Nullam porttitor lacus at turpis.,362,115
-216,Nije dostava,562 Coleman Alley,141.98,7:55 PM,Nunc rhoncus dui vel sem. Sed sagittis.,398,382
-217,Nije dostava,699 Melvin Hill,137.12,3:15 AM,Cras pellentesque volutpat dui.,314,389
-218,Nije dostava,7874 Northfield Court,107.5,9:23 AM,In sagittis dui vel nisl. Duis ac nibh.,146,380
-219,Dostava,8 Center Junction,37.44,4:38 PM,Suspendisse potenti. In eleifend quam a odio.,332,315
-220,Nije dostava,56514 Holy Cross Hill,104.0,10:37 AM,"",427,90
-221,Dostava,468 Vera Road,37.3,8:32 AM,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",7,359
-222,Dostava,0316 Morrow Crossing,123.59,8:00 AM,"",214,284
-223,Nije dostava,0 Merchant Circle,55.4,3:51 PM,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",336,410
-224,Nije dostava,0 Kennedy Hill,9.0,4:57 AM,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,59,442
-225,Dostava,2395 Kingsford Drive,132.05,10:07 AM,"",315,400
-226,Dostava,8 Melvin Lane,80.53,2:07 AM,"",334,122
-227,Dostava,3768 Schiller Pass,138.06,6:18 AM,Morbi a ipsum.,183,256
-228,Nije dostava,59876 Merrick Trail,37.64,3:02 AM,Vestibulum ac est lacinia nisi venenatis tristique.,223,399
-229,Dostava,95402 Oriole Lane,57.42,5:31 PM,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,247,426
-230,Nije dostava,23 Brown Street,128.38,6:46 PM,"",330,2
-231,Dostava,24 Huxley Plaza,147.28,9:38 AM,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",465,271
-232,Dostava,40 Grim Way,54.35,6:15 PM,Cras non velit nec nisi vulputate nonummy.,123,79
-233,Nije dostava,7 Debra Park,16.65,3:17 AM,"",392,495
-234,Dostava,7952 Petterle Way,94.56,7:12 AM,"",4,310
-235,Nije dostava,936 Darwin Avenue,53.46,6:56 PM,Sed vel enim sit amet nunc viverra dapibus.,182,129
-236,Dostava,017 Elka Point,115.74,4:21 PM,"",67,30
-237,Dostava,56395 Ridgeview Lane,74.46,12:08 PM,"",177,49
-238,Dostava,3 Warbler Junction,49.24,6:44 AM,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,378,166
-239,Nije dostava,8884 Nova Parkway,29.66,6:12 AM,Suspendisse accumsan tortor quis turpis. Sed ante.,474,356
-240,Nije dostava,9 Bluestem Alley,51.76,9:06 PM,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,218,415
-241,Nije dostava,4 Sycamore Way,54.43,8:59 AM,Praesent lectus.,328,221
-242,Nije dostava,73714 Havey Center,12.3,8:16 PM,"",148,132
-243,Dostava,3326 Charing Cross Place,46.81,4:49 PM,Etiam justo.,170,9
-244,Dostava,9959 Kedzie Center,47.09,12:52 PM,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",78,493
-245,Dostava,21 Lien Lane,113.54,10:32 AM,Suspendisse accumsan tortor quis turpis. Sed ante.,5,4
-246,Dostava,591 Fuller Place,48.98,8:39 PM,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,95,411
-247,Nije dostava,2 Pankratz Pass,105.32,8:38 PM,"",226,485
-248,Nije dostava,95991 Hansons Avenue,135.12,7:22 PM,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",385,53
-249,Nije dostava,770 Wayridge Junction,55.83,11:26 AM,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",239,487
-250,Dostava,58 Autumn Leaf Road,69.06,6:29 AM,"",270,42
-251,Nije dostava,13596 Moose Point,119.11,9:17 PM,Pellentesque ultrices mattis odio. Donec vitae nisi.,282,376
-252,Nije dostava,3752 Rutledge Way,100.16,12:54 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",445,230
-253,Dostava,3 Westport Trail,51.49,12:35 PM,"",84,73
-254,Nije dostava,03529 Comanche Way,102.09,5:22 AM,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",215,156
-255,Nije dostava,1 Quincy Court,121.24,2:46 AM,"",323,36
-256,Dostava,2 Kedzie Place,42.9,2:47 AM,Proin interdum mauris non ligula pellentesque ultrices.,396,393
-257,Dostava,96 Golf View Center,107.37,10:39 PM,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",464,74
-258,Dostava,85 Thierer Circle,91.35,11:37 PM,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",242,182
-259,Nije dostava,5138 Duke Street,52.89,11:50 PM,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",351,22
-260,Nije dostava,44301 Rowland Trail,80.3,2:14 PM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",447,457
-261,Dostava,64834 Barnett Lane,37.9,9:13 PM,"",342,106
-262,Dostava,488 Raven Plaza,135.12,2:43 PM,Duis ac nibh.,248,391
-263,Nije dostava,6 Shelley Center,57.27,5:26 AM,"",88,41
-264,Nije dostava,93069 Kings Circle,132.67,7:32 PM,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,39,6
-265,Nije dostava,24 Dahle Road,107.01,3:44 AM,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",118,301
-266,Dostava,315 Straubel Park,141.53,6:13 AM,Phasellus id sapien in sapien iaculis congue.,448,224
-267,Nije dostava,44928 Kingsford Crossing,82.84,2:39 AM,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",295,47
-268,Nije dostava,0 Nova Avenue,74.01,6:37 PM,Pellentesque at nulla.,353,303
-269,Nije dostava,589 Bowman Circle,107.48,5:05 PM,"",219,405
-270,Dostava,1736 Lien Road,95.47,6:27 PM,"",434,183
-271,Nije dostava,6122 Kinsman Court,147.53,7:19 AM,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,173,365
-272,Dostava,47227 Muir Court,118.19,5:52 PM,"",212,172
-273,Nije dostava,718 Sunfield Pass,70.02,6:51 AM,Vestibulum ac est lacinia nisi venenatis tristique.,113,88
-274,Dostava,29227 Dapin Court,115.76,9:13 AM,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",402,178
-275,Nije dostava,7 Kinsman Terrace,124.46,10:57 AM,Nulla justo.,473,184
-276,Dostava,041 Orin Terrace,32.63,4:43 PM,Praesent lectus.,64,420
-277,Dostava,46984 Michigan Park,91.02,2:42 PM,Nulla ut erat id mauris vulputate elementum. Nullam varius.,266,65
-278,Dostava,4 Pierstorff Hill,23.81,2:30 AM,Nunc nisl.,195,181
-279,Nije dostava,8452 Wayridge Plaza,40.57,7:02 PM,"",366,451
-280,Nije dostava,4272 Roxbury Terrace,18.03,12:15 AM,Integer ac neque.,321,404
-281,Dostava,56 Randy Court,22.27,3:46 AM,"",144,446
-282,Nije dostava,2067 Clemons Court,10.33,7:19 PM,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",420,500
-283,Dostava,1338 Knutson Way,134.73,8:06 PM,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,190,113
-284,Nije dostava,09 Miller Hill,63.96,11:03 PM,"",110,211
-285,Nije dostava,6889 Cottonwood Point,66.8,9:18 AM,"",365,83
-286,Nije dostava,73 Karstens Lane,100.33,4:10 PM,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,240,108
-287,Dostava,14 Bartelt Road,131.71,7:58 AM,"",159,341
-288,Nije dostava,9130 Waxwing Junction,87.54,6:20 PM,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,107,409
-289,Dostava,2 Shasta Plaza,62.45,8:41 PM,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,352,91
-290,Nije dostava,9 Mccormick Park,29.64,9:21 AM,"",497,18
-291,Nije dostava,4734 Forest Dale Point,97.56,9:40 PM,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",16,197
-292,Nije dostava,507 Magdeline Road,137.03,12:20 PM,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,246,358
-293,Dostava,04641 Manitowish Place,70.0,8:17 AM,"",460,58
-294,Nije dostava,3 Iowa Crossing,72.48,7:04 PM,"",292,386
-295,Dostava,18062 Calypso Place,139.5,4:07 PM,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,284,82
-296,Nije dostava,7 Laurel Street,91.26,9:53 PM,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",303,480
-297,Nije dostava,7344 Clemons Lane,114.36,9:43 PM,"",440,401
-298,Dostava,87 Wayridge Street,121.37,9:51 AM,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,331,321
-299,Dostava,1321 Barnett Plaza,79.55,10:34 PM,"",69,134
-300,Dostava,68 Montana Crossing,66.04,11:10 AM,"",209,331
-301,Nije dostava,9814 Fulton Street,76.53,3:49 PM,"",65,62
-302,Dostava,6 Buhler Alley,32.11,8:49 AM,"",449,283
-303,Nije dostava,91 Bobwhite Terrace,42.24,1:40 AM,Phasellus sit amet erat. Nulla tempus.,142,99
-304,Dostava,84958 Springview Lane,106.54,11:55 AM,"",235,304
-305,Nije dostava,96763 Garrison Avenue,53.81,8:05 AM,"",316,273
-306,Nije dostava,1 Messerschmidt Terrace,24.35,6:24 AM,Etiam faucibus cursus urna. Ut tellus.,201,34
-307,Nije dostava,3 Esch Avenue,83.87,9:06 PM,"",348,370
-308,Nije dostava,20987 Jackson Road,131.97,11:41 AM,"",261,429
-309,Dostava,4107 Starling Circle,10.68,5:35 AM,In hac habitasse platea dictumst.,1,348
-310,Dostava,7860 Derek Lane,22.36,9:19 AM,"",99,371
-311,Dostava,93 Dexter Plaza,81.03,8:28 PM,"",198,167
-312,Nije dostava,20003 Judy Lane,77.52,4:03 AM,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",196,249
-313,Nije dostava,11 Ryan Way,38.07,9:17 AM,Morbi porttitor lorem id ligula.,471,208
-314,Nije dostava,83 Randy Circle,57.76,2:31 PM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",166,235
-315,Dostava,807 Thackeray Pass,38.44,4:32 AM,"",54,435
-316,Nije dostava,4 Maple Avenue,101.72,5:25 PM,Proin eu mi. Nulla ac enim.,356,101
-317,Dostava,56613 Ridgeview Street,55.46,3:47 PM,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",311,95
-318,Dostava,8696 Kipling Court,96.37,2:15 PM,"",181,220
-319,Nije dostava,58 Hansons Crossing,136.37,8:02 PM,Duis bibendum. Morbi non quam nec dui luctus rutrum.,144,419
-320,Nije dostava,0 Dakota Junction,58.5,4:54 AM,In blandit ultrices enim.,500,44
-321,Dostava,15 Mayfield Drive,64.24,7:19 PM,In hac habitasse platea dictumst.,427,51
-322,Dostava,94 Cordelia Crossing,58.66,3:52 PM,"",308,196
-323,Dostava,9999 Buhler Trail,58.51,12:39 AM,"",481,162
-324,Nije dostava,17 Mitchell Place,78.77,7:18 AM,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",413,417
-325,Dostava,432 Bobwhite Junction,70.32,4:16 AM,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",185,116
-326,Nije dostava,8301 Dixon Way,82.71,10:58 PM,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",258,96
-327,Nije dostava,575 Delaware Terrace,107.35,4:30 PM,"",473,302
-328,Nije dostava,2400 Macpherson Point,83.03,5:19 PM,"",137,360
-329,Dostava,7567 Texas Trail,90.85,12:58 PM,Nulla facilisi.,263,338
-330,Nije dostava,5030 Ruskin Drive,43.17,7:48 PM,Integer tincidunt ante vel ipsum.,131,71
-331,Dostava,35 Tennyson Terrace,16.45,9:52 PM,"",424,353
-332,Dostava,4362 Fieldstone Way,71.07,6:55 AM,Sed vel enim sit amet nunc viverra dapibus.,250,367
-333,Dostava,21633 Eliot Avenue,30.73,3:58 AM,Vestibulum sed magna at nunc commodo placerat.,51,12
-334,Nije dostava,36 Meadow Valley Park,20.09,3:27 AM,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",189,8
-335,Nije dostava,729 Cody Terrace,20.69,4:06 AM,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,50,355
-336,Nije dostava,40 Nobel Trail,58.62,3:20 PM,Integer tincidunt ante vel ipsum.,151,74
-337,Dostava,56293 Anhalt Point,25.37,6:04 PM,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",168,296
-338,Nije dostava,931 Packers Alley,129.15,4:15 PM,"",382,392
-339,Nije dostava,838 North Lane,29.29,9:31 PM,"",375,129
-340,Dostava,58095 Leroy Center,120.74,1:50 AM,Maecenas tincidunt lacus at velit.,285,3
-341,Nije dostava,3 Evergreen Circle,8.16,1:46 AM,"",106,81
-342,Nije dostava,75703 Dawn Way,11.26,1:54 PM,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",91,291
-343,Nije dostava,16 Glendale Center,133.76,8:25 AM,"",99,348
-344,Dostava,8492 Mccormick Pass,26.19,2:00 PM,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",74,317
-345,Dostava,0 Jay Court,52.71,1:41 PM,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",303,449
-346,Nije dostava,7 Doe Crossing Lane,111.6,10:23 PM,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",471,104
-347,Dostava,51 Grasskamp Park,53.1,6:50 PM,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,406,486
-348,Nije dostava,94688 Iowa Avenue,145.69,10:06 PM,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",180,201
-349,Nije dostava,3 Loftsgordon Point,70.33,4:39 AM,Etiam pretium iaculis justo.,124,202
-350,Nije dostava,93989 Leroy Park,72.28,9:43 PM,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",295,151
-351,Dostava,6097 David Court,48.6,10:01 PM,Mauris sit amet eros.,475,11
-352,Dostava,9 Eagan Crossing,139.96,6:42 PM,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",175,375
-353,Nije dostava,1 Crest Line Junction,70.91,11:37 PM,"",281,466
-354,Dostava,23149 Nobel Pass,127.36,11:08 AM,"",479,377
-355,Dostava,67324 Blue Bill Park Road,103.54,7:17 PM,Pellentesque at nulla.,302,320
-356,Dostava,8139 Meadow Vale Trail,92.21,4:41 AM,"",30,206
-357,Dostava,7 Sauthoff Junction,85.43,9:59 PM,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",53,438
-358,Nije dostava,339 Green Junction,93.02,11:31 PM,"",455,23
-359,Nije dostava,144 Di Loreto Plaza,81.74,4:33 PM,"",354,39
-360,Nije dostava,19 Algoma Parkway,56.22,8:21 PM,"",428,495
-361,Nije dostava,16 Stuart Lane,124.29,7:15 AM,Sed vel enim sit amet nunc viverra dapibus.,495,274
-362,Nije dostava,5 Ridgeway Circle,93.58,11:55 AM,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,377,380
-363,Dostava,030 Vera Junction,89.43,5:09 AM,Etiam faucibus cursus urna. Ut tellus.,279,451
-364,Nije dostava,2 Pearson Avenue,24.43,3:17 AM,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",260,480
-365,Dostava,896 Fremont Avenue,101.97,12:05 PM,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",199,445
-366,Nije dostava,994 Muir Junction,59.91,8:46 PM,"",270,224
-367,Dostava,3 Gerald Street,83.97,9:52 PM,In congue.,332,187
-368,Dostava,8609 Eagan Parkway,98.28,7:05 AM,"",320,182
-369,Nije dostava,002 Independence Court,91.75,5:23 PM,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,454,91
-370,Nije dostava,78 Burrows Hill,33.52,11:02 PM,"",410,436
-371,Nije dostava,18536 American Ash Terrace,72.65,5:49 PM,Mauris lacinia sapien quis libero.,152,412
-372,Dostava,23059 Crownhardt Road,14.28,9:50 PM,"",364,266
-373,Nije dostava,2 Vernon Crossing,112.39,9:11 AM,Phasellus in felis.,227,177
-374,Nije dostava,97 Becker Road,126.68,6:31 PM,"",405,144
-375,Nije dostava,55 Macpherson Street,51.99,4:33 AM,Quisque ut erat.,132,162
-376,Nije dostava,2934 Meadow Vale Drive,108.33,2:16 AM,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,309,270
-377,Dostava,7 Sachs Way,57.3,9:34 PM,Vivamus tortor. Duis mattis egestas metus.,52,169
-378,Dostava,21358 Vahlen Center,117.49,9:30 PM,"",451,327
-379,Nije dostava,293 West Junction,12.15,4:38 AM,Duis consequat dui nec nisi volutpat eleifend.,449,238
-380,Nije dostava,80 Grim Terrace,41.27,12:59 PM,"",340,166
-381,Nije dostava,9 Moulton Way,134.26,7:41 PM,Ut tellus.,55,432
-382,Dostava,3 Michigan Way,91.18,5:33 AM,"",420,409
-383,Dostava,27 Welch Hill,63.32,6:46 PM,"",49,490
-384,Nije dostava,533 Surrey Circle,81.1,9:23 AM,"",201,14
-385,Dostava,76 Warbler Terrace,116.41,8:21 AM,"",186,6
-386,Dostava,797 Ruskin Avenue,19.09,4:36 PM,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,29,370
-387,Dostava,8 Kenwood Hill,76.04,3:32 PM,"",205,497
-388,Nije dostava,4299 Luster Road,8.34,8:18 PM,Phasellus in felis.,123,94
-389,Dostava,2933 Bluejay Pass,147.23,8:29 AM,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,296,295
-390,Dostava,8 Meadow Vale Circle,114.6,8:35 AM,"",326,362
-391,Nije dostava,24282 Grayhawk Lane,105.38,8:07 PM,Aliquam quis turpis eget elit sodales scelerisque.,251,85
-392,Dostava,521 Lindbergh Parkway,54.35,4:21 PM,Integer tincidunt ante vel ipsum.,37,252
-393,Dostava,5290 Loeprich Alley,121.17,2:50 AM,"",443,223
-394,Dostava,83 Waxwing Street,138.09,11:11 PM,Proin eu mi. Nulla ac enim.,105,464
-395,Nije dostava,7112 Eastlawn Way,38.23,5:57 PM,Curabitur gravida nisi at nibh.,310,264
-396,Nije dostava,45275 Killdeer Pass,91.65,7:27 AM,"",271,80
-397,Dostava,3 Bowman Junction,91.89,1:34 PM,Morbi a ipsum.,426,156
-398,Nije dostava,2589 Tennyson Plaza,42.31,12:30 AM,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,119,45
-399,Dostava,54 Independence Lane,92.37,4:31 PM,Donec ut dolor.,115,176
-400,Nije dostava,51 Brown Trail,123.74,2:42 AM,Sed ante. Vivamus tortor.,293,289
-401,Nije dostava,93 Gale Plaza,35.13,4:16 PM,"",294,203
-402,Nije dostava,86489 Darwin Point,103.68,9:18 AM,Vestibulum sed magna at nunc commodo placerat.,136,44
-403,Dostava,19 Eastwood Park,122.18,11:11 AM,"",259,268
-404,Nije dostava,32 Brentwood Parkway,66.52,2:43 PM,Nulla justo.,356,285
-405,Nije dostava,190 Kropf Crossing,71.63,12:42 AM,"",344,312
-406,Dostava,10187 Hooker Hill,127.36,1:56 AM,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,190,199
-407,Nije dostava,6 Dennis Alley,92.81,10:44 PM,"",3,384
-408,Nije dostava,70516 Glacier Hill Center,121.91,4:13 PM,In hac habitasse platea dictumst.,157,152
-409,Nije dostava,8 Texas Center,30.48,12:13 AM,Pellentesque ultrices mattis odio.,421,205
-410,Dostava,04212 Reindahl Plaza,141.58,2:44 AM,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,439,95
-411,Nije dostava,47 Gale Junction,38.06,8:40 PM,Duis aliquam convallis nunc.,83,439
-412,Nije dostava,17 Bartelt Pass,9.99,10:41 AM,Mauris ullamcorper purus sit amet nulla.,120,52
-413,Nije dostava,67764 Summer Ridge Junction,130.83,12:57 PM,"",78,283
-414,Nije dostava,91 Meadow Valley Crossing,88.44,6:20 PM,"",87,427
-415,Nije dostava,251 Troy Crossing,45.97,7:53 AM,Phasellus sit amet erat.,165,29
-416,Nije dostava,68 Pine View Drive,103.54,1:48 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",135,249
-417,Nije dostava,886 Nelson Terrace,99.94,2:58 PM,In hac habitasse platea dictumst.,204,304
-418,Dostava,27 Longview Circle,82.02,4:03 AM,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",323,69
-419,Nije dostava,7233 Rigney Center,137.58,2:54 AM,"",456,461
-420,Nije dostava,4454 Clarendon Court,63.59,4:12 AM,Nullam porttitor lacus at turpis.,229,378
-421,Dostava,42306 Manley Parkway,41.43,12:06 AM,Donec ut dolor.,130,426
-422,Dostava,98 Stoughton Parkway,44.52,5:57 PM,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,444,477
-423,Nije dostava,7 Merchant Junction,139.73,4:34 AM,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",275,189
-424,Nije dostava,143 Crowley Junction,109.88,1:14 AM,Mauris lacinia sapien quis libero.,62,89
-425,Nije dostava,03159 Burning Wood Alley,63.31,1:33 AM,Duis consequat dui nec nisi volutpat eleifend.,343,25
-426,Dostava,84143 Boyd Hill,98.79,3:39 AM,"",200,168
-427,Nije dostava,94 Melvin Alley,56.88,12:40 AM,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",371,406
-428,Nije dostava,9 Red Cloud Parkway,20.54,5:37 AM,"",212,59
-429,Nije dostava,93160 Anderson Pass,139.46,8:37 PM,"",441,77
-430,Nije dostava,6550 Quincy Place,119.98,6:34 AM,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",486,468
-431,Nije dostava,01280 Comanche Street,141.37,12:52 PM,In eleifend quam a odio. In hac habitasse platea dictumst.,453,198
-432,Nije dostava,29416 Toban Road,43.62,4:45 AM,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",273,332
-433,Dostava,7 Cardinal Center,57.14,7:57 PM,Nunc rhoncus dui vel sem.,401,416
-434,Nije dostava,24 Fisk Point,12.74,4:49 AM,"",198,354
-435,Dostava,057 Texas Way,95.07,2:30 PM,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",61,53
-436,Dostava,6593 Bartillon Parkway,114.15,6:57 AM,"",243,149
-437,Nije dostava,378 Everett Hill,22.03,2:24 AM,Donec posuere metus vitae ipsum. Aliquam non mauris.,380,479
-438,Nije dostava,6624 Pennsylvania Alley,88.54,7:26 PM,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,233,79
-439,Dostava,8 Sachtjen Crossing,89.43,3:50 PM,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",482,184
-440,Nije dostava,4268 Beilfuss Road,59.18,7:31 PM,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",395,92
-441,Dostava,5 Glendale Point,140.25,9:42 AM,Nulla mollis molestie lorem. Quisque ut erat.,483,209
-442,Dostava,7 Independence Place,116.98,11:11 AM,"",447,279
-443,Dostava,65 Continental Place,64.52,4:16 PM,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,17,58
-444,Dostava,92 7th Junction,14.73,5:09 PM,"",431,476
-445,Nije dostava,8 Eggendart Terrace,12.5,2:44 PM,"",13,180
-446,Nije dostava,9 Scott Junction,81.34,2:33 AM,Maecenas rhoncus aliquam lacus.,54,72
-447,Nije dostava,66111 Rockefeller Alley,21.95,2:24 AM,Proin eu mi.,206,216
-448,Nije dostava,77961 Lakewood Gardens Circle,146.83,10:15 PM,"",138,489
-449,Nije dostava,95 Bartelt Pass,85.85,11:53 PM,"",317,17
-450,Nije dostava,6340 Mayer Avenue,8.23,2:52 AM,"",104,404
-451,Dostava,4 Esker Trail,6.65,4:19 AM,Nulla tellus.,498,93
-452,Dostava,23975 Vidon Terrace,144.1,10:33 PM,"",325,27
-453,Dostava,2 Esch Avenue,45.53,12:18 PM,Aliquam sit amet diam in magna bibendum imperdiet.,122,160
-454,Dostava,9 East Crossing,103.85,1:35 PM,Nullam molestie nibh in lectus. Pellentesque at nulla.,391,40
-455,Nije dostava,2996 Reinke Circle,45.83,2:43 AM,"",290,284
-456,Nije dostava,36254 Jana Terrace,48.82,11:54 PM,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",242,318
-457,Dostava,16138 Northfield Place,114.79,1:33 AM,"",491,478
-458,Nije dostava,8232 Starling Pass,7.45,12:51 PM,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",488,60
-459,Nije dostava,47919 Scott Center,92.15,4:14 PM,Sed sagittis.,221,137
-460,Nije dostava,14 Shoshone Plaza,85.42,5:38 AM,"",276,450
-461,Nije dostava,34 Kingsford Avenue,119.06,8:50 PM,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,398,214
-462,Dostava,6 Oak Valley Avenue,7.98,6:58 PM,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",376,272
-463,Dostava,6051 Bayside Crossing,37.56,11:23 AM,"",26,171
-464,Dostava,951 Larry Avenue,94.96,8:56 AM,"",109,458
-465,Nije dostava,865 Northland Pass,63.6,5:10 AM,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,76,357
-466,Nije dostava,005 Elka Parkway,149.5,1:13 PM,"",184,488
-467,Nije dostava,16 Homewood Street,77.36,3:19 AM,"",111,393
-468,Dostava,7966 Veith Parkway,136.52,5:50 PM,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",141,474
-469,Nije dostava,731 Petterle Court,23.85,9:23 AM,Suspendisse potenti.,468,443
-470,Dostava,1597 Graceland Alley,97.46,6:20 AM,Nulla ut erat id mauris vulputate elementum.,252,188
-471,Dostava,90 Muir Pass,114.08,6:50 PM,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,80,344
-472,Nije dostava,53 Arizona Street,131.64,1:33 AM,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",394,331
-473,Dostava,4 Melvin Way,15.96,6:20 PM,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",161,148
-474,Dostava,69863 Commercial Lane,123.17,12:46 PM,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,143,259
-475,Dostava,1 Oakridge Park,32.39,8:46 PM,"",177,260
-476,Nije dostava,3371 Cherokee Park,112.55,1:14 AM,Aenean lectus. Pellentesque eget nunc.,267,401
-477,Nije dostava,7 8th Parkway,75.41,12:08 PM,"",203,361
-478,Dostava,6 Pawling Plaza,90.42,5:45 PM,Duis bibendum.,438,186
-479,Dostava,92 Dunning Avenue,135.79,8:59 AM,Donec semper sapien a libero. Nam dui.,193,191
-480,Nije dostava,011 Sunbrook Crossing,103.4,11:02 AM,"",79,255
-481,Nije dostava,3 Westend Crossing,116.8,6:36 AM,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",284,319
-482,Dostava,2806 Everett Drive,139.31,10:32 AM,"",213,433
-483,Dostava,283 Kenwood Circle,123.5,4:19 PM,"",412,35
-484,Nije dostava,236 Buena Vista Road,129.94,11:49 PM,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",283,452
-485,Nije dostava,00273 Bultman Place,40.29,10:00 PM,"",437,280
-486,Nije dostava,3556 2nd Court,30.57,6:55 PM,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",40,170
-487,Dostava,4 Montana Center,72.21,7:56 AM,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",142,157
-488,Dostava,1183 Bayside Road,99.7,9:54 AM,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",216,41
-489,Dostava,606 Colorado Point,44.36,6:32 PM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",415,173
-490,Dostava,832 Ohio Road,119.17,8:56 AM,Aliquam quis turpis eget elit sodales scelerisque.,265,105
-491,Dostava,2698 Pearson Circle,115.89,5:11 AM,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",214,256
-492,Dostava,4 Dayton Park,107.51,5:41 AM,In quis justo. Maecenas rhoncus aliquam lacus.,126,472
-493,Dostava,43 Cambridge Hill,121.86,9:10 PM,Duis mattis egestas metus. Aenean fermentum.,297,57
-494,Nije dostava,60299 Pawling Hill,56.07,1:56 PM,"",337,245
-495,Dostava,6336 Clyde Gallagher Point,136.08,11:46 AM,Donec ut dolor.,223,220
-496,Nije dostava,3 Stephen Drive,137.62,11:45 PM,Mauris ullamcorper purus sit amet nulla.,176,20
-497,Nije dostava,19 Coleman Point,116.12,8:10 AM,Integer a nibh.,366,364
-498,Dostava,78637 Sunbrook Terrace,149.3,3:51 AM,"",234,84
-499,Nije dostava,287 East Plaza,57.49,1:45 PM,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,298,499
-500,Dostava,3031 Ridgeview Avenue,80.59,5:49 AM,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,58,447
+1,Nije dostava,78755 Cordelia Road,46.66,2024-06-11,Curabitur at ipsum ac tellus semper interdum.,358,402
+2,Nije dostava,933 Springs Park,11.28,2024-08-28,Mauris sit amet eros.,404,147
+3,Nije dostava,7631 Ohio Lane,109.81,2024-06-30,In quis justo.,472,421
+4,Dostava,74500 Oxford Way,101.35,2024-05-26,Ut at dolor quis odio consequat varius. Integer ac leo.,74,440
+5,Dostava,18244 Eagan Place,53.73,2024-07-02,"",94,308
+6,Dostava,890 Tomscot Plaza,23.96,2024-03-10,Vivamus in felis eu sapien cursus vestibulum.,201,187
+7,Dostava,74 International Terrace,137.19,2024-06-19,In quis justo. Maecenas rhoncus aliquam lacus.,157,469
+8,Dostava,4 Carey Street,108.33,2023-12-18,"",227,318
+9,Nije dostava,5 Burning Wood Road,83.61,2024-10-31,Sed ante. Vivamus tortor.,53,103
+10,Nije dostava,27961 Di Loreto Park,10.34,2024-05-07,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",295,237
+11,Nije dostava,16 Menomonie Pass,61.02,2024-06-15,Nulla tempus.,130,486
+12,Dostava,20 Gerald Terrace,143.83,2024-11-26,Proin at turpis a pede posuere nonummy.,51,414
+13,Dostava,9 Cardinal Pass,102.17,2024-10-22,Nulla suscipit ligula in lacus.,68,280
+14,Dostava,65 Arrowood Park,93.55,2024-08-21,Aliquam non mauris.,272,415
+15,Dostava,57073 Golden Leaf Circle,100.24,2023-12-22,Nullam varius.,348,325
+16,Nije dostava,01670 Del Sol Plaza,109.69,2024-08-05,"",236,19
+17,Nije dostava,38273 Truax Avenue,60.8,2024-11-09,Cras in purus eu magna vulputate luctus.,420,89
+18,Dostava,50911 Superior Drive,98.33,2024-01-09,"",347,347
+19,Nije dostava,8 Blue Bill Park Pass,77.86,2024-11-17,"",436,160
+20,Dostava,01006 Messerschmidt Hill,123.13,2024-04-22,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",247,222
+21,Dostava,82222 Blaine Place,110.45,2024-04-20,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",55,91
+22,Dostava,3882 Ridge Oak Parkway,50.18,2024-05-09,Nunc purus. Phasellus in felis.,117,256
+23,Nije dostava,24 Hintze Lane,15.07,2024-07-26,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,242,176
+24,Dostava,985 Coleman Plaza,40.08,2024-10-09,"",467,161
+25,Dostava,44 Charing Cross Junction,139.84,2024-06-14,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",289,277
+26,Nije dostava,818 Blackbird Junction,125.5,2024-09-29,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,195,54
+27,Dostava,7232 Mesta Avenue,49.74,2024-09-21,"",329,100
+28,Nije dostava,5091 Starling Point,149.09,2024-06-08,"",265,348
+29,Nije dostava,35 Green Pass,40.92,2024-03-30,"",111,371
+30,Dostava,19053 Onsgard Parkway,29.5,2024-05-10,Vivamus vestibulum sagittis sapien.,32,227
+31,Nije dostava,5 Blackbird Way,76.07,2024-05-29,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",184,153
+32,Nije dostava,99 Spohn Place,101.91,2024-07-03,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,262,363
+33,Nije dostava,50750 Elgar Terrace,24.0,2024-01-29,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",165,461
+34,Dostava,22469 Sommers Hill,129.87,2024-05-03,Nullam sit amet turpis elementum ligula vehicula consequat.,67,286
+35,Dostava,88881 Iowa Road,10.07,2024-06-20,"",240,481
+36,Dostava,1673 Petterle Alley,83.27,2024-09-15,Nam dui.,326,349
+37,Dostava,082 Hazelcrest Lane,50.02,2024-08-11,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",228,25
+38,Dostava,24815 Sugar Junction,15.15,2024-11-14,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",476,302
+39,Nije dostava,76162 Nevada Court,63.15,2024-05-22,"",18,392
+40,Nije dostava,36607 Elmside Circle,10.15,2024-07-13,Aenean sit amet justo. Morbi ut odio.,440,252
+41,Nije dostava,1579 Swallow Crossing,30.79,2024-01-22,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",143,258
+42,Nije dostava,3047 Lakewood Road,91.98,2024-06-21,"",462,346
+43,Dostava,8 Sundown Plaza,71.98,2024-09-18,Nulla tellus.,284,129
+44,Nije dostava,759 Oneill Road,112.44,2024-07-01,"",77,413
+45,Dostava,5 Birchwood Avenue,13.58,2024-03-12,Duis at velit eu est congue elementum.,39,139
+46,Dostava,8 Dixon Place,55.56,2024-04-10,"",356,495
+47,Dostava,17 Eggendart Lane,121.96,2024-11-03,"",365,47
+48,Nije dostava,0 Rowland Place,147.64,2024-07-23,"",217,316
+49,Nije dostava,32 Kim Plaza,48.79,2024-03-19,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",477,206
+50,Dostava,57317 Elgar Hill,54.69,2024-07-28,In quis justo. Maecenas rhoncus aliquam lacus.,376,115
+51,Dostava,88785 Delladonna Road,92.78,2024-11-19,Suspendisse potenti. In eleifend quam a odio.,115,158
+52,Dostava,7252 Kensington Lane,84.73,2024-05-26,"",270,69
+53,Dostava,8911 Arkansas Center,112.7,2024-02-21,"",478,170
+54,Dostava,36801 Meadow Ridge Court,15.4,2024-06-04,"",103,436
+55,Nije dostava,57092 Union Drive,144.07,2024-08-20,Donec ut dolor.,363,188
+56,Dostava,943 Northfield Plaza,125.68,2023-12-06,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,369,224
+57,Nije dostava,76 Dottie Parkway,55.87,2024-02-19,Nullam molestie nibh in lectus. Pellentesque at nulla.,366,389
+58,Dostava,20 Summerview Parkway,16.23,2024-06-23,Proin at turpis a pede posuere nonummy. Integer non velit.,197,493
+59,Dostava,38416 Muir Drive,141.98,2023-12-13,"",162,195
+60,Nije dostava,49522 Independence Drive,129.63,2023-12-20,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,385,49
+61,Nije dostava,81046 Forest Dale Trail,86.52,2024-11-05,Cras pellentesque volutpat dui.,28,370
+62,Dostava,289 Mandrake Road,98.14,2024-02-29,"",294,213
+63,Nije dostava,38854 Holmberg Avenue,5.25,2024-02-26,"",253,289
+64,Nije dostava,1 Porter Point,64.56,2024-11-30,Praesent lectus.,343,386
+65,Dostava,349 Hansons Parkway,47.47,2024-03-05,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",35,283
+66,Dostava,8303 Clarendon Street,104.64,2024-02-21,In congue.,22,220
+67,Dostava,89817 Parkside Lane,100.93,2024-09-17,In eleifend quam a odio.,72,30
+68,Dostava,05 Kinsman Trail,140.96,2024-11-15,Ut tellus.,275,120
+69,Nije dostava,2 Kedzie Terrace,46.44,2024-09-28,Integer ac neque. Duis bibendum.,273,5
+70,Nije dostava,4 Basil Lane,142.4,2024-08-01,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",330,422
+71,Dostava,27183 Village Green Alley,123.05,2024-04-07,In sagittis dui vel nisl.,132,23
+72,Nije dostava,79097 Fair Oaks Junction,26.27,2024-04-18,"",433,399
+73,Dostava,8 Carpenter Place,108.88,2024-07-20,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",314,383
+74,Nije dostava,5 Harbort Circle,12.12,2024-06-27,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",246,340
+75,Dostava,1 Stephen Plaza,67.59,2024-09-19,Donec dapibus.,492,183
+76,Nije dostava,1954 Coleman Way,18.37,2024-05-13,"",498,167
+77,Nije dostava,42977 Ruskin Parkway,19.97,2024-03-21,"",362,304
+78,Dostava,470 Mcguire Center,133.01,2023-12-30,Phasellus sit amet erat. Nulla tempus.,308,216
+79,Nije dostava,4 Nova Street,51.11,2024-10-27,Praesent lectus.,339,454
+80,Dostava,7 Del Mar Center,115.69,2024-08-11,"",319,73
+81,Nije dostava,376 Valley Edge Terrace,44.21,2024-09-13,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,315,121
+82,Nije dostava,946 Schmedeman Trail,121.87,2023-12-09,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",415,279
+83,Dostava,30297 Oakridge Park,5.2,2024-01-19,"",149,141
+84,Nije dostava,47 Lillian Plaza,112.48,2024-01-12,"",241,214
+85,Nije dostava,25517 Fremont Park,62.64,2024-09-01,"",279,231
+86,Dostava,651 Gale Lane,115.16,2024-01-18,Curabitur convallis.,243,315
+87,Dostava,34098 Toban Avenue,108.22,2024-02-22,In hac habitasse platea dictumst.,119,407
+88,Dostava,92 Clemons Drive,92.6,2024-02-28,Aenean auctor gravida sem.,141,15
+89,Dostava,9 Rusk Point,115.05,2024-05-08,Nulla nisl.,257,179
+90,Nije dostava,19 Harper Avenue,7.98,2024-09-14,Nunc purus. Phasellus in felis.,92,384
+91,Dostava,33 Bluestem Court,69.47,2024-02-20,Integer a nibh. In quis justo.,443,333
+92,Dostava,5 Karstens Court,23.46,2024-02-18,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,198,66
+93,Nije dostava,64 Sage Center,83.42,2024-08-18,Morbi ut odio.,95,39
+94,Nije dostava,6 Scott Trail,122.11,2024-06-18,Curabitur in libero ut massa volutpat convallis.,54,359
+95,Dostava,6017 Shopko Drive,98.63,2024-04-16,"",93,230
+96,Nije dostava,351 Surrey Avenue,141.13,2024-01-14,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,154,291
+97,Nije dostava,93 Carioca Street,132.86,2024-05-17,"",37,18
+98,Dostava,1 Tennessee Trail,134.48,2024-02-01,"",213,26
+99,Dostava,75592 Harbort Point,97.09,2024-07-22,Proin risus. Praesent lectus.,60,81
+100,Nije dostava,4087 Hallows Alley,87.88,2024-10-24,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,23,352
+101,Dostava,436 Nancy Lane,120.13,2024-04-12,Suspendisse ornare consequat lectus.,463,381
+102,Nije dostava,486 Kropf Plaza,52.36,2024-04-30,Mauris ullamcorper purus sit amet nulla.,42,70
+103,Dostava,2104 Monterey Crossing,65.69,2024-01-28,"",237,412
+104,Nije dostava,685 Crownhardt Hill,118.08,2024-10-10,Suspendisse ornare consequat lectus.,297,327
+105,Nije dostava,15 Roxbury Parkway,48.85,2024-10-21,"",238,208
+106,Nije dostava,23343 Leroy Avenue,8.3,2024-10-22,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,202,471
+107,Nije dostava,43620 Cody Point,36.68,2024-03-18,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",169,13
+108,Nije dostava,737 Loomis Circle,105.1,2024-08-29,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",89,441
+109,Nije dostava,918 Carpenter Street,5.79,2024-11-06,"",136,130
+110,Dostava,5111 Melby Parkway,109.31,2023-12-26,"",396,239
+111,Dostava,305 Dawn Plaza,6.8,2024-11-09,"",52,341
+112,Dostava,0268 4th Trail,21.78,2023-12-24,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",286,434
+113,Dostava,284 Prairie Rose Way,46.11,2024-09-05,Integer a nibh. In quis justo.,226,50
+114,Nije dostava,1 Caliangt Crossing,17.57,2024-05-03,"",134,225
+115,Dostava,612 Mccormick Plaza,70.53,2024-01-30,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,205,71
+116,Nije dostava,4579 Golden Leaf Lane,18.41,2024-03-26,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",75,470
+117,Nije dostava,3459 Judy Alley,79.26,2024-07-07,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",116,264
+118,Nije dostava,404 Drewry Parkway,95.35,2024-05-28,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",416,10
+119,Nije dostava,9548 Green Hill,64.54,2024-10-12,"",153,169
+120,Nije dostava,989 Jenifer Place,101.69,2024-07-18,Suspendisse potenti.,451,219
+121,Nije dostava,6013 Grim Trail,139.68,2024-07-23,"",107,310
+122,Nije dostava,0 Granby Terrace,11.3,2024-10-10,Morbi non quam nec dui luctus rutrum.,264,483
+123,Nije dostava,67 Maryland Way,10.83,2024-03-04,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",122,365
+124,Dostava,2 Mandrake Junction,15.33,2023-12-28,"",357,387
+125,Dostava,49 Nobel Way,50.0,2024-05-02,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,305,22
+126,Nije dostava,935 Sachtjen Park,33.04,2024-05-24,Etiam faucibus cursus urna. Ut tellus.,231,259
+127,Dostava,85659 Wayridge Place,19.81,2024-02-09,Etiam vel augue. Vestibulum rutrum rutrum neque.,334,263
+128,Nije dostava,7 Kennedy Avenue,25.73,2024-07-23,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",16,135
+129,Nije dostava,2558 Randy Center,125.96,2024-03-21,Fusce consequat.,483,453
+130,Dostava,8 Comanche Center,23.46,2024-10-27,"",17,87
+131,Nije dostava,43879 Corry Parkway,32.29,2024-02-14,"",159,417
+132,Nije dostava,33 Killdeer Road,129.41,2024-08-16,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,405,132
+133,Nije dostava,4 Milwaukee Trail,94.53,2024-11-28,"",129,148
+134,Nije dostava,47779 Packers Lane,41.87,2024-02-09,"",163,290
+135,Dostava,5 Novick Circle,64.2,2024-09-30,"",453,136
+136,Nije dostava,41 Center Street,12.86,2024-02-24,"",277,482
+137,Dostava,3 Stephen Terrace,46.55,2024-06-01,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",445,390
+138,Nije dostava,0 Hazelcrest Road,66.8,2024-07-11,Nulla suscipit ligula in lacus.,90,133
+139,Dostava,947 Sauthoff Parkway,144.37,2024-07-01,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",139,119
+140,Nije dostava,83415 Morrow Avenue,65.7,2024-04-02,"",208,397
+141,Nije dostava,8672 Cambridge Pass,99.99,2024-07-02,Suspendisse accumsan tortor quis turpis. Sed ante.,84,409
+142,Nije dostava,0284 Killdeer Place,26.15,2024-10-20,Donec dapibus. Duis at velit eu est congue elementum.,387,429
+143,Nije dostava,5 Merchant Crossing,118.48,2024-06-20,Aliquam sit amet diam in magna bibendum imperdiet.,147,260
+144,Dostava,382 Badeau Crossing,33.88,2024-11-11,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",486,68
+145,Nije dostava,067 Haas Street,114.81,2024-05-26,Suspendisse potenti.,290,184
+146,Nije dostava,9 Mccormick Way,79.14,2024-01-20,"",430,192
+147,Nije dostava,09 Swallow Junction,135.77,2024-04-02,"",389,288
+148,Nije dostava,9 Autumn Leaf Court,36.05,2024-10-16,Suspendisse potenti.,250,56
+149,Dostava,9 Swallow Hill,127.87,2024-01-22,Vivamus tortor.,470,374
+150,Dostava,67433 Crescent Oaks Circle,144.77,2024-01-29,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",124,398
+151,Dostava,5 Dexter Street,77.41,2024-07-25,"",192,41
+152,Dostava,9675 Mallard Parkway,13.12,2024-04-24,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",9,406
+153,Nije dostava,84401 Daystar Drive,126.3,2024-06-11,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",484,292
+154,Dostava,11 Forster Circle,53.65,2024-07-29,Morbi a ipsum. Integer a nibh.,468,31
+155,Nije dostava,04 Continental Center,148.34,2024-11-10,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",454,487
+156,Dostava,3 Luster Alley,144.01,2024-07-25,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",395,474
+157,Nije dostava,265 Eliot Trail,63.38,2024-07-02,Donec quis orci eget orci vehicula condimentum.,172,197
+158,Nije dostava,819 Waywood Drive,105.8,2024-05-02,"",145,199
+159,Nije dostava,1458 Iowa Alley,67.85,2024-07-19,Phasellus sit amet erat. Nulla tempus.,82,362
+160,Nije dostava,9 Scott Avenue,123.54,2024-02-15,Sed ante.,62,445
+161,Nije dostava,8521 Eastwood Court,142.07,2024-10-01,"",158,24
+162,Dostava,41701 Lunder Parkway,116.35,2024-02-18,Quisque ut erat. Curabitur gravida nisi at nibh.,351,430
+163,Nije dostava,95 Springview Pass,20.29,2024-03-25,Vestibulum ac est lacinia nisi venenatis tristique.,336,299
+164,Dostava,351 Farmco Parkway,148.04,2024-08-17,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,384,33
+165,Dostava,822 Gale Park,28.89,2024-04-16,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",375,240
+166,Nije dostava,074 Maple Wood Alley,106.28,2024-09-17,"",151,468
+167,Dostava,1501 Glacier Hill Terrace,83.42,2024-05-06,"",431,177
+168,Dostava,3 Packers Hill,13.88,2024-03-25,"",78,128
+169,Dostava,415 Hayes Center,13.12,2023-12-17,Nulla nisl.,189,250
+170,Nije dostava,519 Heffernan Street,109.57,2024-10-27,Nulla nisl.,20,274
+171,Dostava,8 Scott Plaza,12.87,2024-01-12,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",324,205
+172,Dostava,08 Carberry Pass,8.43,2024-06-27,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,298,373
+173,Dostava,35 Alpine Plaza,112.79,2024-08-13,"",360,353
+174,Dostava,0 Washington Road,18.97,2024-10-15,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",19,307
+175,Dostava,97 Prairieview Alley,76.57,2024-05-16,"",473,377
+176,Dostava,6 Vernon Point,9.62,2023-12-25,Suspendisse potenti. In eleifend quam a odio.,500,14
+177,Dostava,57 Ilene Plaza,50.84,2024-08-30,"",379,226
+178,Nije dostava,076 Starling Circle,6.94,2024-02-08,Suspendisse accumsan tortor quis turpis. Sed ante.,152,101
+179,Nije dostava,1 Hudson Park,91.56,2024-09-27,Nam nulla.,456,79
+180,Nije dostava,06 Walton Terrace,117.52,2024-10-21,"",491,210
+181,Nije dostava,3 Myrtle Drive,104.18,2024-04-20,Nunc nisl.,256,181
+182,Dostava,8 Londonderry Lane,107.88,2024-02-21,"",50,354
+183,Nije dostava,99 Lotheville Pass,114.46,2024-09-20,Aliquam erat volutpat. In congue.,386,331
+184,Dostava,1188 Elka Park,110.69,2023-12-31,"",266,85
+185,Nije dostava,8539 Macpherson Avenue,101.67,2024-06-22,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",485,338
+186,Nije dostava,6135 Forest Park,28.2,2024-01-05,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",191,234
+187,Dostava,479 Monument Drive,39.1,2024-01-16,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",106,1
+188,Nije dostava,53020 David Road,84.81,2024-08-04,Curabitur gravida nisi at nibh.,269,172
+189,Nije dostava,07 Boyd Center,106.02,2023-12-20,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,87,28
+190,Dostava,33550 American Terrace,55.11,2024-07-09,"",346,36
+191,Nije dostava,72514 Grim Point,127.17,2024-01-22,"",233,113
+192,Dostava,25 Hansons Place,61.3,2024-03-30,Aliquam erat volutpat. In congue.,144,42
+193,Nije dostava,65 Upham Circle,115.43,2023-12-05,"",188,166
+194,Nije dostava,47913 Kinsman Road,130.31,2024-06-07,"",210,74
+195,Dostava,84 Dryden Hill,67.48,2024-06-30,"",121,268
+196,Nije dostava,1 Thackeray Terrace,99.46,2024-06-11,Mauris lacinia sapien quis libero.,255,17
+197,Dostava,95 Butterfield Alley,148.84,2024-09-02,"",2,232
+198,Dostava,2 Colorado Lane,25.14,2024-05-13,Aliquam erat volutpat. In congue.,490,298
+199,Dostava,69 2nd Avenue,18.74,2024-09-18,"",225,198
+200,Dostava,41123 Scofield Court,18.81,2024-05-27,Pellentesque ultrices mattis odio. Donec vitae nisi.,180,278
+201,Dostava,2 Mariners Cove Park,53.73,2024-11-20,"",378,450
+202,Dostava,4939 Shelley Hill,25.17,2023-12-23,"",86,196
+203,Dostava,539 Old Gate Park,7.44,2024-04-24,Aliquam quis turpis eget elit sodales scelerisque.,299,366
+204,Nije dostava,74947 Morrow Parkway,58.49,2024-09-21,Integer non velit.,252,204
+205,Dostava,9 Arapahoe Road,106.18,2024-05-12,"",27,350
+206,Dostava,8 Monterey Lane,23.36,2024-07-20,"",26,106
+207,Nije dostava,74901 David Hill,75.0,2023-12-13,"",313,339
+208,Nije dostava,9610 Packers Road,72.6,2024-12-01,"",359,457
+209,Nije dostava,76764 Muir Court,139.52,2024-05-12,Morbi non quam nec dui luctus rutrum.,239,285
+210,Nije dostava,3832 Hollow Ridge Trail,37.57,2024-04-18,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",174,330
+211,Dostava,4 Briar Crest Street,130.12,2024-04-08,"",224,145
+212,Nije dostava,95 1st Avenue,105.69,2024-01-14,Sed accumsan felis. Ut at dolor quis odio consequat varius.,30,110
+213,Nije dostava,6073 Kennedy Alley,78.21,2024-06-06,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,328,180
+214,Dostava,254 Kings Court,52.38,2024-10-26,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",460,287
+215,Nije dostava,3 Bluestem Hill,34.74,2024-05-07,"",374,254
+216,Dostava,402 Prairieview Place,61.76,2023-12-28,Nam dui.,221,443
+217,Nije dostava,1 Glendale Circle,63.88,2024-01-04,Nunc purus. Phasellus in felis.,222,154
+218,Nije dostava,25148 Forest Dale Circle,57.27,2024-06-13,"",49,312
+219,Nije dostava,8 Chive Avenue,65.99,2024-01-10,"",455,269
+220,Nije dostava,20 Mayfield Parkway,75.79,2023-12-13,Nunc nisl.,173,202
+221,Dostava,7 Dexter Pass,8.86,2023-12-04,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,194,149
+222,Nije dostava,62434 Eagan Lane,95.46,2024-01-29,"",412,328
+223,Dostava,80 Southridge Trail,136.68,2024-07-16,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",400,396
+224,Nije dostava,55 Oxford Point,75.43,2024-10-13,"",150,11
+225,Nije dostava,34177 Hoepker Park,90.14,2024-01-27,"",464,475
+226,Dostava,46389 Grasskamp Trail,110.38,2024-04-02,Ut tellus. Nulla ut erat id mauris vulputate elementum.,131,171
+227,Dostava,5 Reindahl Park,125.32,2024-11-26,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,442,467
+228,Nije dostava,217 Eliot Point,46.71,2024-01-31,"",187,228
+229,Dostava,451 Schlimgen Park,104.76,2024-05-29,Nullam varius.,380,464
+230,Nije dostava,864 Colorado Park,41.97,2024-09-04,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",438,211
+231,Dostava,203 Atwood Place,145.48,2024-08-21,Nullam varius.,1,244
+232,Dostava,25048 Nevada Street,47.47,2024-04-11,Pellentesque eget nunc.,258,403
+233,Nije dostava,7 Ramsey Road,91.16,2024-09-24,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,261,104
+234,Nije dostava,01 Talmadge Hill,135.41,2024-03-21,Praesent blandit lacinia erat.,421,375
+235,Nije dostava,2 Loeprich Way,112.06,2024-05-16,"",220,218
+236,Dostava,409 Shelley Junction,117.02,2024-06-24,"",259,96
+237,Nije dostava,311 Bartelt Way,62.3,2024-01-01,In eleifend quam a odio. In hac habitasse platea dictumst.,109,93
+238,Nije dostava,7257 Debra Plaza,8.83,2024-03-24,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",168,111
+239,Dostava,07890 Arrowood Center,123.43,2024-09-29,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",7,293
+240,Nije dostava,3851 Tony Lane,65.0,2024-05-07,Duis bibendum.,11,294
+241,Dostava,8 Kenwood Hill,94.58,2024-09-13,Praesent id massa id nisl venenatis lacinia.,183,463
+242,Dostava,90 Reinke Parkway,135.77,2024-07-03,"",373,491
+243,Dostava,74152 Bayside Circle,73.72,2024-05-19,"",388,201
+244,Nije dostava,914 Linden Park,125.51,2024-03-28,"",203,215
+245,Dostava,63814 Hanover Avenue,103.95,2024-05-04,Etiam faucibus cursus urna.,349,364
+246,Nije dostava,09187 Dahle Terrace,118.36,2024-03-13,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,332,249
+247,Dostava,5 Redwing Junction,138.45,2023-12-15,"",100,52
+248,Dostava,0915 Declaration Street,125.39,2024-09-18,Suspendisse potenti. In eleifend quam a odio.,245,276
+249,Dostava,43 Kings Pass,105.01,2024-05-01,Duis bibendum. Morbi non quam nec dui luctus rutrum.,97,242
+250,Dostava,54 Memorial Lane,132.92,2024-09-30,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",427,368
+251,Dostava,3958 Talmadge Circle,51.63,2024-03-19,Curabitur convallis.,206,102
+252,Dostava,76 Hauk Street,126.69,2024-07-21,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",43,190
+253,Nije dostava,74273 Eastwood Terrace,79.17,2024-10-14,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",304,300
+254,Nije dostava,726 Meadow Valley Trail,26.41,2024-02-23,Suspendisse potenti.,296,479
+255,Dostava,049 Autumn Leaf Point,32.8,2024-11-18,Pellentesque eget nunc.,350,496
+256,Dostava,20467 Ridgeway Plaza,91.81,2024-05-26,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,13,270
+257,Dostava,50 Ramsey Park,41.18,2024-02-08,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,312,284
+258,Dostava,24716 Morrow Way,127.88,2024-05-06,"",73,185
+259,Dostava,4209 Maple Wood Place,82.59,2024-04-02,Nulla ut erat id mauris vulputate elementum.,140,64
+260,Nije dostava,384 Pennsylvania Place,92.81,2024-10-30,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",46,376
+261,Dostava,754 Chive Street,142.77,2024-03-11,"",280,186
+262,Nije dostava,899 Karstens Point,134.42,2024-09-08,Integer ac leo.,496,423
+263,Dostava,94558 Kenwood Place,60.05,2024-03-27,"",101,77
+264,Nije dostava,7239 Jenifer Lane,67.54,2024-01-07,Nulla ac enim.,6,478
+265,Nije dostava,16 Red Cloud Terrace,28.26,2024-11-16,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",446,146
+266,Dostava,26 Bellgrove Lane,12.07,2024-10-19,"",283,433
+267,Dostava,36 Wayridge Point,149.14,2024-11-21,"",235,78
+268,Nije dostava,13 Kingsford Circle,112.68,2024-10-25,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",12,140
+269,Nije dostava,9 Southridge Circle,148.32,2024-02-25,Donec dapibus.,155,459
+270,Nije dostava,67213 6th Plaza,116.78,2024-04-26,"",426,488
+271,Nije dostava,15652 Sunbrook Trail,74.68,2024-06-01,"",469,20
+272,Dostava,3185 Erie Trail,82.36,2024-04-24,"",371,490
+273,Dostava,62 Stuart Terrace,95.72,2024-08-22,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",80,194
+274,Dostava,1 Fieldstone Court,57.56,2024-04-16,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",4,123
+275,Dostava,397 Little Fleur Parkway,71.77,2024-05-01,"",212,372
+276,Nije dostava,685 Clove Circle,41.47,2024-09-01,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,41,107
+277,Dostava,5 Upham Plaza,62.62,2024-03-21,"",160,12
+278,Nije dostava,08 Comanche Pass,61.41,2024-05-30,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",291,134
+279,Dostava,280 Rutledge Point,99.48,2024-06-18,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",137,48
+280,Dostava,1821 International Alley,64.18,2024-01-20,"",428,369
+281,Dostava,7260 Moose Avenue,59.61,2024-04-19,Nunc rhoncus dui vel sem.,185,337
+282,Dostava,22 Hooker Street,64.96,2024-08-06,"",31,489
+283,Dostava,075 Straubel Point,10.54,2024-05-04,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",452,309
+284,Dostava,26 Old Shore Junction,74.75,2024-07-10,Curabitur gravida nisi at nibh.,354,465
+285,Nije dostava,23880 Spaight Alley,97.21,2024-11-29,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",301,94
+286,Dostava,6 Badeau Place,8.09,2024-11-16,"",393,217
+287,Nije dostava,76001 Forster Hill,139.36,2024-06-02,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",69,97
+288,Nije dostava,4 Holmberg Alley,93.84,2024-11-22,Nulla ut erat id mauris vulputate elementum.,383,88
+289,Nije dostava,03 Monument Lane,112.47,2024-09-04,"",254,311
+290,Nije dostava,45163 Johnson Hill,72.74,2024-11-09,"",118,189
+291,Dostava,7 Cambridge Terrace,125.98,2024-03-05,Quisque ut erat.,79,262
+292,Nije dostava,903 Crest Line Trail,142.96,2024-03-31,Aenean auctor gravida sem.,40,455
+293,Nije dostava,7 Merrick Road,131.62,2024-01-11,"",414,116
+294,Nije dostava,304 Dwight Street,28.91,2024-08-08,"",429,174
+295,Nije dostava,795 Di Loreto Street,18.18,2024-09-24,In sagittis dui vel nisl.,377,335
+296,Dostava,162 Melody Circle,33.14,2024-08-05,Pellentesque eget nunc.,316,29
+297,Nije dostava,35821 Kenwood Avenue,38.95,2023-12-10,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,219,16
+298,Dostava,99 Twin Pines Point,123.01,2024-09-17,Curabitur convallis.,146,382
+299,Dostava,33 2nd Crossing,20.21,2024-12-02,"",176,151
+300,Dostava,5914 Jana Avenue,20.06,2024-01-18,Ut tellus. Nulla ut erat id mauris vulputate elementum.,123,494
+301,Dostava,867 Fordem Circle,120.39,2024-01-24,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",215,159
+302,Dostava,366 Lerdahl Drive,51.59,2023-12-05,"",392,114
+303,Dostava,770 Sundown Place,68.62,2024-06-19,Nulla suscipit ligula in lacus.,142,391
+304,Nije dostava,860 Burning Wood Center,81.72,2024-08-24,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",161,67
+305,Dostava,6 American Point,140.48,2024-09-11,Duis mattis egestas metus.,96,117
+306,Dostava,83 Mariners Cove Lane,7.41,2024-11-17,Nulla mollis molestie lorem.,489,499
+307,Nije dostava,1 Mayfield Road,121.52,2024-01-20,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,164,194
+308,Dostava,8324 4th Place,123.4,2024-04-10,"",466,338
+309,Dostava,3 Parkside Junction,128.79,2024-05-04,"",497,298
+310,Dostava,15284 Esch Circle,46.78,2024-08-22,Ut tellus.,48,176
+311,Nije dostava,768 Brown Crossing,116.63,2023-12-31,Nullam porttitor lacus at turpis.,450,155
+312,Dostava,00761 Butternut Parkway,128.28,2024-01-04,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",419,71
+313,Nije dostava,2225 Welch Junction,67.92,2024-07-08,"",3,327
+314,Dostava,18 Tennyson Center,34.16,2024-04-27,Morbi ut odio.,113,169
+315,Dostava,9 Scoville Terrace,76.1,2024-05-06,"",71,267
+316,Dostava,4352 Ruskin Circle,59.62,2023-12-19,Curabitur convallis.,457,304
+317,Nije dostava,6 Quincy Plaza,35.22,2024-07-27,"",459,214
+318,Nije dostava,66816 Transport Parkway,33.31,2024-08-21,In hac habitasse platea dictumst.,434,11
+319,Dostava,4 Hagan Alley,66.62,2024-06-14,Etiam vel augue. Vestibulum rutrum rutrum neque.,230,256
+320,Nije dostava,153 American Park,58.21,2024-01-28,"",336,23
+321,Dostava,446 Artisan Junction,41.91,2024-06-30,Sed ante.,475,445
+322,Nije dostava,1 Dovetail Plaza,48.18,2024-01-01,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,481,376
+323,Dostava,44513 Scoville Court,74.58,2024-01-11,Integer non velit.,17,419
+324,Nije dostava,144 Golf Alley,56.34,2024-09-19,"",144,317
+325,Dostava,0231 Autumn Leaf Plaza,37.3,2024-09-21,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,86,67
+326,Nije dostava,642 Twin Pines Circle,86.77,2024-04-24,Phasellus sit amet erat.,1,150
+327,Nije dostava,1 Sundown Alley,125.57,2024-10-17,"",487,112
+328,Dostava,15946 Golf Course Park,85.41,2024-01-19,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,356,448
+329,Dostava,60033 Barnett Junction,82.01,2024-06-20,"",446,498
+330,Dostava,072 Mcguire Avenue,53.27,2024-06-23,Vivamus vestibulum sagittis sapien.,9,103
+331,Nije dostava,5536 Texas Street,94.8,2024-10-29,"",108,191
+332,Nije dostava,1312 Michigan Street,114.88,2024-08-31,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,437,37
+333,Dostava,6049 Myrtle Terrace,62.47,2024-10-01,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",453,293
+334,Nije dostava,584 Bowman Plaza,112.69,2024-07-16,Mauris sit amet eros.,85,4
+335,Nije dostava,683 Sunfield Alley,51.21,2024-04-07,"",399,222
+336,Nije dostava,68036 Hovde Terrace,82.75,2023-12-11,Praesent blandit lacinia erat.,154,197
+337,Nije dostava,19228 Reindahl Way,106.34,2024-10-15,Integer ac neque. Duis bibendum.,403,228
+338,Dostava,58679 Hanson Street,137.03,2023-12-09,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",497,410
+339,Dostava,93665 Sugar Drive,55.53,2023-12-06,"",468,494
+340,Dostava,1 Kim Alley,58.75,2024-12-02,"",461,15
+341,Dostava,50 6th Trail,18.95,2024-07-16,"",34,457
+342,Dostava,0257 Dexter Crossing,121.54,2024-01-24,"",273,247
+343,Nije dostava,180 Killdeer Terrace,96.76,2024-02-28,"",280,382
+344,Dostava,76432 Luster Pass,120.98,2024-02-10,"",158,352
+345,Nije dostava,822 Iowa Place,116.88,2024-04-09,"",422,351
+346,Nije dostava,99616 Union Center,33.17,2024-11-28,"",240,291
+347,Nije dostava,1 Dawn Hill,106.12,2024-06-16,Suspendisse potenti. In eleifend quam a odio.,83,83
+348,Dostava,8616 Clemons Avenue,83.57,2024-11-02,Duis bibendum. Morbi non quam nec dui luctus rutrum.,39,439
+349,Nije dostava,45552 Sauthoff Alley,22.05,2024-11-26,Mauris sit amet eros.,142,138
+350,Dostava,44 Golden Leaf Park,100.58,2024-11-11,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",335,236
+351,Nije dostava,1558 Granby Place,21.87,2024-07-01,Cras in purus eu magna vulputate luctus.,427,316
+352,Nije dostava,92614 Buena Vista Junction,12.47,2024-02-17,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",221,246
+353,Dostava,6 Marcy Pass,8.46,2024-10-23,"",18,339
+354,Dostava,00 Mendota Drive,66.49,2024-10-15,Etiam vel augue. Vestibulum rutrum rutrum neque.,416,488
+355,Dostava,572 Mockingbird Parkway,17.74,2024-11-06,"",95,357
+356,Nije dostava,257 Pleasure Point,54.82,2024-05-04,"",283,220
+357,Dostava,29500 Messerschmidt Lane,66.28,2024-02-10,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,287,478
+358,Dostava,1 Sutteridge Street,26.02,2024-03-31,Ut tellus. Nulla ut erat id mauris vulputate elementum.,382,484
+359,Dostava,4477 Moland Drive,54.94,2024-05-04,"",129,294
+360,Nije dostava,7 Carioca Plaza,58.92,2024-02-01,Sed vel enim sit amet nunc viverra dapibus.,242,51
+361,Nije dostava,0 Bonner Trail,133.63,2024-11-30,In congue.,131,201
+362,Nije dostava,0754 Riverside Park,125.85,2024-09-30,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,279,401
+363,Nije dostava,864 Ilene Plaza,16.0,2024-09-09,Vestibulum rutrum rutrum neque.,15,36
+364,Nije dostava,8 Schiller Alley,136.87,2024-10-09,"",408,125
+365,Nije dostava,58 Crest Line Court,96.66,2023-12-11,"",25,276
+366,Nije dostava,072 Garrison Terrace,43.01,2024-01-18,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",218,395
+367,Dostava,98663 Kenwood Drive,128.91,2024-06-07,Vestibulum rutrum rutrum neque.,65,378
+368,Nije dostava,318 Fulton Drive,24.66,2024-11-18,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",278,68
+369,Dostava,349 Coleman Drive,49.82,2024-02-20,"",125,34
+370,Nije dostava,159 Hansons Center,20.39,2024-02-17,"",321,424
+371,Nije dostava,028 Kensington Road,147.86,2024-03-17,In quis justo.,406,133
+372,Dostava,40792 Superior Lane,99.9,2024-08-12,Donec ut dolor.,409,81
+373,Dostava,72547 Orin Park,60.59,2024-03-05,Morbi porttitor lorem id ligula.,292,341
+374,Nije dostava,39 Sheridan Park,114.76,2024-02-26,Pellentesque ultrices mattis odio. Donec vitae nisi.,329,321
+375,Dostava,9 Briar Crest Parkway,75.08,2024-01-10,Aenean fermentum.,333,254
+376,Dostava,717 Veith Place,68.17,2024-09-11,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,196,464
+377,Nije dostava,72386 Delladonna Court,13.51,2023-12-16,"",159,456
+378,Nije dostava,0140 Dexter Terrace,122.72,2024-09-18,"",214,207
+379,Dostava,79 Green Junction,130.04,2024-04-28,Etiam faucibus cursus urna. Ut tellus.,308,91
+380,Nije dostava,855 Talmadge Court,135.65,2024-07-18,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,347,292
+381,Nije dostava,05506 Springs Park,126.08,2024-11-01,"",140,135
+382,Dostava,772 Sunbrook Parkway,135.89,2024-09-05,Nulla facilisi.,16,483
+383,Dostava,82 Anzinger Point,124.61,2024-06-05,"",445,128
+384,Nije dostava,36503 Sachs Avenue,139.24,2024-05-01,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",442,319
+385,Dostava,3 Heffernan Road,23.96,2024-08-29,Fusce consequat. Nulla nisl.,391,50
+386,Nije dostava,685 Sutteridge Junction,78.89,2024-07-09,"",418,305
+387,Dostava,3 Johnson Plaza,146.66,2024-07-12,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,217,185
+388,Nije dostava,0 Tomscot Hill,117.31,2024-06-24,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",367,24
+389,Nije dostava,3 Division Trail,18.03,2024-08-26,Nulla nisl. Nunc nisl.,488,61
+390,Nije dostava,4725 Ridgeway Center,117.36,2024-01-13,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",311,328
+391,Dostava,54654 Armistice Junction,7.56,2024-11-13,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",474,63
+392,Nije dostava,017 Nobel Center,6.53,2024-11-27,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,56,204
+393,Nije dostava,65 Alpine Drive,34.26,2024-01-23,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",323,237
+394,Nije dostava,1794 Arrowood Terrace,84.52,2023-12-20,"",428,398
+395,Nije dostava,59014 Eliot Road,80.14,2024-12-02,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",10,306
+396,Dostava,33305 Gina Lane,129.67,2024-07-12,Fusce posuere felis sed lacus.,317,435
+397,Nije dostava,74 Magdeline Parkway,89.8,2024-11-17,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",341,163
+398,Nije dostava,20249 Becker Terrace,35.74,2024-09-23,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,176,178
+399,Dostava,551 Fallview Way,119.72,2024-01-10,"",162,218
+400,Dostava,0 Bowman Junction,124.11,2024-06-21,Nulla mollis molestie lorem. Quisque ut erat.,388,403
+401,Dostava,97767 Corben Pass,135.15,2023-12-23,"",260,347
+402,Nije dostava,4450 Merchant Plaza,105.19,2024-04-27,"",290,99
+403,Nije dostava,56197 Starling Park,16.21,2024-06-12,Nulla justo.,344,330
+404,Nije dostava,7 Del Sol Crossing,66.86,2024-02-15,In hac habitasse platea dictumst.,368,283
+405,Nije dostava,692 Forster Lane,145.85,2024-09-13,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",415,394
+406,Dostava,67952 Chive Plaza,134.36,2024-08-24,Nunc nisl.,53,187
+407,Nije dostava,3 Clemons Plaza,83.44,2024-01-13,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",123,315
+408,Dostava,89083 Mifflin Center,145.36,2024-06-05,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,455,418
+409,Nije dostava,25975 Florence Park,52.22,2024-03-21,"",393,108
+410,Dostava,3940 Erie Way,8.16,2024-05-02,Vivamus tortor. Duis mattis egestas metus.,81,78
+411,Nije dostava,285 Straubel Terrace,19.36,2024-04-03,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",235,385
+412,Dostava,06 Calypso Junction,101.64,2024-08-09,In blandit ultrices enim.,310,374
+413,Nije dostava,47 Glendale Road,65.31,2023-12-08,Vivamus tortor.,318,168
+414,Dostava,8991 Iowa Hill,82.03,2024-11-28,Cras non velit nec nisi vulputate nonummy.,312,361
+415,Nije dostava,27686 Melody Point,41.25,2024-06-25,Cras in purus eu magna vulputate luctus.,200,388
+416,Nije dostava,2757 Golden Leaf Place,89.73,2024-10-19,Etiam pretium iaculis justo.,3,75
+417,Nije dostava,377 Rigney Alley,106.49,2023-12-14,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",35,425
+418,Dostava,294 Surrey Way,58.55,2024-03-27,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",30,337
+419,Nije dostava,4 Union Drive,53.31,2023-12-14,"",269,482
+420,Nije dostava,98 Kingsford Plaza,24.48,2024-08-27,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",494,30
+421,Dostava,81272 Harper Terrace,36.36,2024-11-16,"",383,344
+422,Dostava,17 Artisan Circle,94.32,2024-10-20,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",61,295
+423,Dostava,73 Dahle Way,53.81,2024-04-10,Nulla tellus. In sagittis dui vel nisl.,458,447
+424,Dostava,373 Ohio Junction,93.43,2024-10-20,Donec dapibus. Duis at velit eu est congue elementum.,304,102
+425,Dostava,19 Comanche Court,142.27,2024-03-23,Nunc rhoncus dui vel sem. Sed sagittis.,212,210
+426,Dostava,357 American Ash Lane,73.14,2024-09-09,"",250,479
+427,Dostava,978 Everett Park,72.17,2023-12-24,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,36,148
+428,Nije dostava,4192 Swallow Junction,101.57,2024-03-01,Sed sagittis.,40,145
+429,Dostava,9 Doe Crossing Point,74.73,2024-11-07,Nunc rhoncus dui vel sem.,364,340
+430,Nije dostava,9340 Warbler Junction,126.24,2024-03-07,Pellentesque ultrices mattis odio. Donec vitae nisi.,187,215
+431,Nije dostava,6 Bay Crossing,58.7,2023-12-18,Proin risus. Praesent lectus.,394,18
+432,Nije dostava,9 Coleman Avenue,86.33,2024-09-24,Sed ante. Vivamus tortor.,148,303
+433,Nije dostava,6134 Leroy Hill,75.36,2024-07-13,In sagittis dui vel nisl.,381,147
+434,Nije dostava,767 Jackson Circle,29.02,2024-06-17,"",360,309
+435,Dostava,67627 Oxford Street,133.18,2024-06-12,Aenean auctor gravida sem.,239,444
+436,Dostava,8947 Hoffman Pass,111.36,2024-06-07,"",490,57
+437,Nije dostava,49 Bay Hill,6.15,2024-02-02,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",97,473
+438,Nije dostava,86 Barnett Trail,114.15,2024-08-16,Integer ac leo.,431,239
+439,Dostava,600 Loftsgordon Lane,133.44,2023-12-09,"",326,437
+440,Dostava,6 Raven Place,102.69,2024-08-08,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",28,274
+441,Dostava,21971 Meadow Valley Plaza,84.53,2024-03-01,"",470,472
+442,Dostava,54419 Superior Trail,49.97,2024-06-17,Duis at velit eu est congue elementum.,88,255
+443,Dostava,50 Forest Dale Court,148.34,2024-10-26,Nullam porttitor lacus at turpis.,315,296
+444,Nije dostava,5 Arrowood Alley,97.68,2024-10-01,Vestibulum sed magna at nunc commodo placerat.,441,367
+445,Dostava,24110 Logan Trail,43.83,2024-08-03,Etiam faucibus cursus urna. Ut tellus.,66,13
+446,Dostava,83 Lukken Street,82.25,2024-07-23,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,226,493
+447,Dostava,40018 Birchwood Place,110.72,2024-06-28,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",227,362
+448,Nije dostava,16 Dunning Parkway,48.57,2024-03-16,Sed sagittis.,369,180
+449,Nije dostava,191 Portage Center,102.53,2024-04-21,Donec posuere metus vitae ipsum. Aliquam non mauris.,271,349
+450,Dostava,60890 Sage Lane,83.71,2024-03-01,In hac habitasse platea dictumst.,111,266
+451,Dostava,26 Golf View Crossing,55.13,2024-04-11,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",307,79
+452,Nije dostava,1 Iowa Place,43.87,2024-08-20,Pellentesque eget nunc.,435,391
+453,Dostava,03048 Mockingbird Court,98.26,2024-03-16,"",479,312
+454,Dostava,43030 Portage Avenue,132.17,2024-03-18,Pellentesque ultrices mattis odio.,454,407
+455,Nije dostava,62 Lindbergh Avenue,8.68,2024-11-30,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,313,468
+456,Nije dostava,6 Moland Trail,149.56,2024-06-25,"",84,151
+457,Dostava,49 Farmco Trail,29.0,2024-09-17,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,375,104
+458,Dostava,51 Dixon Center,69.59,2024-01-28,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,243,240
+459,Dostava,7423 Elmside Park,142.16,2024-11-18,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",414,284
+460,Dostava,949 Boyd Point,8.63,2023-12-11,"",164,216
+461,Dostava,1 Mariners Cove Park,39.06,2024-08-25,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",47,223
+462,Dostava,989 Dryden Trail,76.96,2023-12-16,Proin eu mi. Nulla ac enim.,233,384
+463,Nije dostava,60 Debs Pass,127.78,2023-12-29,"",350,243
+464,Dostava,75204 Sloan Terrace,30.09,2024-11-11,"",26,3
+465,Dostava,4617 Bunting Trail,122.83,2024-05-20,Praesent blandit. Nam nulla.,137,130
+466,Dostava,5 Melby Court,113.09,2024-06-30,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",398,369
+467,Nije dostava,51 Bartillon Point,54.93,2024-11-09,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",248,52
+468,Nije dostava,2 Oak Valley Alley,8.19,2024-01-21,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",262,423
+469,Nije dostava,196 Stang Place,104.11,2024-07-28,"",405,381
+470,Dostava,40 Ohio Alley,119.11,2023-12-13,Nulla justo.,58,377
+471,Dostava,5021 Logan Park,122.11,2024-10-12,Nunc purus.,432,221
+472,Nije dostava,57162 Emmet Crossing,40.57,2024-09-03,Vestibulum rutrum rutrum neque.,491,336
+473,Nije dostava,45 Waywood Drive,142.87,2024-05-25,Vivamus in felis eu sapien cursus vestibulum.,297,286
+474,Nije dostava,4 Spohn Trail,143.59,2023-12-22,"",265,462
+475,Dostava,94883 Ruskin Alley,121.43,2024-01-16,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",362,35
+476,Dostava,801 Mccormick Hill,16.18,2024-11-25,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,98,88
+477,Nije dostava,3839 Manley Trail,39.33,2024-07-14,Phasellus sit amet erat.,402,109
+478,Nije dostava,9713 Anderson Court,74.55,2024-11-12,"",472,397
+479,Dostava,5 Longview Lane,80.67,2024-10-11,"",222,500
+480,Dostava,81784 Sheridan Court,69.31,2024-11-15,"",21,21
+481,Dostava,14347 Shoshone Court,102.28,2024-10-19,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",191,141
+482,Dostava,47 Sachs Trail,17.91,2023-12-16,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",387,289
+483,Nije dostava,38 Gulseth Pass,101.94,2024-08-12,"",300,259
+484,Nije dostava,146 Acker Road,40.7,2023-12-05,Sed sagittis.,189,62
+485,Nije dostava,61 Roth Pass,81.54,2024-08-24,"",138,106
+486,Dostava,46 Scott Lane,88.91,2023-12-04,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",120,422
+487,Dostava,4603 Forest Terrace,132.74,2024-12-02,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,397,232
+488,Dostava,01049 Forest Terrace,90.17,2023-12-13,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",229,288
+489,Nije dostava,86914 Hudson Pass,136.23,2024-09-20,"",128,22
+490,Dostava,55038 Victoria Circle,26.26,2024-10-11,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",94,140
+491,Nije dostava,9609 Loeprich Circle,61.26,2024-10-10,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",173,390
+492,Dostava,94242 Mandrake Crossing,55.82,2024-08-08,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",74,497
+493,Dostava,3 Park Meadow Circle,65.59,2024-04-20,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",334,415
+494,Nije dostava,166 Nobel Park,109.18,2024-09-09,"",32,396
+495,Nije dostava,0928 Basil Trail,12.32,2024-06-22,"",195,452
+496,Dostava,82018 Buhler Point,61.0,2024-05-05,"",72,175
+497,Dostava,47550 Logan Crossing,85.5,2024-11-10,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",460,161
+498,Nije dostava,63 Crowley Place,79.77,2024-05-21,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",396,386
+499,Dostava,2 Armistice Center,20.94,2024-10-07,Pellentesque at nulla. Suspendisse potenti.,407,269
+500,Nije dostava,29075 Stoughton Alley,102.69,2024-05-06,Etiam pretium iaculis justo.,400,453

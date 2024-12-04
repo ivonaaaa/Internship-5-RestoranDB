@@ -34,7 +34,7 @@ CREATE TABLE MenusDishes (
 )
 
 ALTER TABLE MenusDishes
-	RENAME COLUMN MenuDishes TO MenuDishesID;
+	RENAME COLUMN MenuDishes TO MenuDishesID
 
 CREATE TABLE Guests (
 	GuestID SERIAL PRIMARY KEY
@@ -65,11 +65,14 @@ CREATE TABLE OrdersDishes (
 
 CREATE TABLE Staff (
 	StuffID SERIAL PRIMARY KEY,
-	Role VARCHAR(50) NOT NULL CHECK (Role IN('Kuhar', 'Konobar', 'Dostavljač')),
+	Role VARCHAR(50) NOT NULL,
 	Age INT NOT NULL CHECK (NOT (Role = 'Kuhar' AND Age < 18)),
 	DrivingLicence BOOLEAN DEFAULT FALSE CHECK (NOT (Role = 'Dostavljač' AND DrivingLicence = FALSE)),
 	RestaurantID INT REFERENCES Restaurants(RestaurantID)
 )
+
+ALTER TABLE Staff
+	RENAME COLUMN StuffID TO StaffID
 
 CREATE TABLE Reviews (
 	ReviewID SERIAL PRIMARY KEY,
@@ -80,5 +83,3 @@ CREATE TABLE Reviews (
 	DishID INT REFERENCES Dishes(DishID),
 	OrderID INT REFERENCES Orders(OrderID)
 )
-
-
