@@ -23,8 +23,8 @@ CREATE TABLE Dishes (
 ALTER TABLE Dishes DROP CONSTRAINT dishes_category_check
 
 ALTER TABLE Dishes
-	ADD CONSTRAINT dishes_category_check
-	CHECK (Category IN ('Appetizers', 'Main Dish', 'Desserts'))
+ADD CONSTRAINT dishes_category_check
+CHECK (Category IN ('Appetizers', 'Main Dish', 'Desserts'))
 
 CREATE TABLE MenusDishes (
 	MenuDishes SERIAL PRIMARY KEY,
@@ -34,11 +34,15 @@ CREATE TABLE MenusDishes (
 )
 
 ALTER TABLE MenusDishes
-	RENAME COLUMN MenuDishes TO MenuDishesID
+RENAME COLUMN MenuDishes TO MenuDishesID
 
 CREATE TABLE Guests (
 	GuestID SERIAL PRIMARY KEY
 )
+
+ALTER TABLE Guests
+ADD COLUMN Name VARCHAR(30),
+ADD COLUMN Surname VARCHAR(30)
 
 CREATE TABLE LoyaltyCards (
 	LoyaltyCardID SERIAL PRIMARY KEY,
@@ -56,6 +60,22 @@ CREATE TABLE Orders (
 	GuestID INT REFERENCES Guests(GuestID)
 )
 
+ALTER TABLE Orders
+ADD COLUMN StaffID INT REFERENCES Staff(StaffID);
+
+DO $$ 
+DECLARE
+    i INT := 1;
+    staff_id INT := 1001;
+BEGIN
+    WHILE i <= 1000 LOOP
+        UPDATE Orders
+        SET StaffID = staff_id
+        WHERE OrderID = i;
+
+        i := i + 1;
+    END LOOP;
+END $$;
 CREATE TABLE OrdersDishes (
 	OrderItemID SERIAL PRIMARY KEY,
 	OrderID INT REFERENCES Orders(OrderID),
@@ -72,7 +92,25 @@ CREATE TABLE Staff (
 )
 
 ALTER TABLE Staff
-	RENAME COLUMN StuffID TO StaffID
+RENAME COLUMN StuffID TO StaffID
+
+ALTER TABLE Staff
+DROP CONSTRAINT staff_check;
+
+ALTER TABLE Staff
+DROP CONSTRAINT staff_check1;
+
+UPDATE Staff
+SET Role = 'Kuhar'
+WHERE Role = 'kuhar';
+
+UPDATE Staff
+SET Role = 'Konobar'
+WHERE Role = 'konobar';
+
+UPDATE Staff
+SET Role = 'Dostavljač'
+WHERE Role = 'dostavljač';
 
 CREATE TABLE Reviews (
 	ReviewID SERIAL PRIMARY KEY,
